@@ -1,0 +1,856 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-06-11",
+  "updatedAt": "2026-06-11T19:45:00Z",
+  "exportedAt": "2026-06-12T19:07:09.511Z",
+  "districtCode": "VA-02",
+  "data": {
+    "DISTRICT": {
+      "id": "va-02",
+      "districtNumber": "VA-02",
+      "districtName": "Virginia's 2nd Congressional District",
+      "state": "Virginia",
+      "counties": [
+        "Virginia Beach (independent city — full)",
+        "Suffolk (independent city — full)",
+        "Franklin (independent city — full)",
+        "Chesapeake (independent city — partial)",
+        "Southampton County (partial)",
+        "Isle of Wight County (full)",
+        "Accomack County (full, Eastern Shore)",
+        "Northampton County (full, Eastern Shore)"
+      ],
+      "majorPlaces": [
+        "Virginia Beach",
+        "Chesapeake",
+        "Suffolk",
+        "Franklin",
+        "Accomac",
+        "Cape Charles"
+      ],
+      "cycleYear": 2026,
+      "population": 780000,
+      "registeredVoters": 490000,
+      "partyRegistration": [
+        {
+          "label": "Democratic",
+          "count": 176000,
+          "pct": 35.9
+        },
+        {
+          "label": "Republican",
+          "count": 168000,
+          "pct": 34.3
+        },
+        {
+          "label": "Independent / No Party",
+          "count": 128000,
+          "pct": 26.1
+        },
+        {
+          "label": "Other",
+          "count": 18000,
+          "pct": 3.7
+        }
+      ],
+      "previousResult": {
+        "year": 2024,
+        "seat": "U.S. House — VA-02",
+        "winner": {
+          "name": "Jen Kiggans (R)",
+          "pct": 51,
+          "votes": 182000
+        },
+        "runnerUp": {
+          "name": "Missy Cotter Smasal (D)",
+          "pct": 46.8,
+          "votes": 167000
+        },
+        "turnoutPct": 60
+      }
+    },
+    "SOURCES": {
+      "src-va-elect": {
+        "id": "src-va-elect",
+        "name": "Virginia Department of Elections (ELECT)",
+        "short": "VA ELECT",
+        "url": "https://www.elections.virginia.gov",
+        "publisher": "Virginia Department of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-va-code-24-2": {
+        "id": "src-va-code-24-2",
+        "name": "Virginia Code Title 24.2 — Elections",
+        "short": "VA Code § 24.2",
+        "url": "https://law.lis.virginia.gov/vacode/title24.2/",
+        "publisher": "Virginia General Assembly",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-vbeach-registrar": {
+        "id": "src-vbeach-registrar",
+        "name": "Virginia Beach Voter Registration & Elections (General Registrar)",
+        "short": "VB Registrar",
+        "url": "https://voter.virginiabeach.gov",
+        "publisher": "City of Virginia Beach — General Registrar",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Christine Lewis, Director of Elections / General Registrar. 500 Studio Drive, Virginia Beach, VA 23462. Phone: 757-385-8683."
+      },
+      "src-suffolk-registrar": {
+        "id": "src-suffolk-registrar",
+        "name": "City of Suffolk — Voter Registration & Elections",
+        "short": "Suffolk Registrar",
+        "url": "https://www.suffolkva.us/government/departments/voter_registration___elections/index.php",
+        "publisher": "City of Suffolk General Registrar",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-chesapeake-registrar": {
+        "id": "src-chesapeake-registrar",
+        "name": "City of Chesapeake — General Registrar",
+        "short": "Chesapeake Registrar",
+        "url": "https://www.cityofchesapeake.net/Government/City-Departments/Departments/General-Registrar.htm",
+        "publisher": "City of Chesapeake General Registrar",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Chesapeake is only partially in VA-02; part of Chesapeake falls in VA-03."
+      },
+      "src-accomack-registrar": {
+        "id": "src-accomack-registrar",
+        "name": "Accomack County — General Registrar",
+        "short": "Accomack Registrar",
+        "url": "https://www.accomackcounty.net/general-registrar",
+        "publisher": "Accomack County General Registrar",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Eastern Shore of Virginia. Full county in VA-02."
+      },
+      "src-ballotpedia-va02": {
+        "id": "src-ballotpedia-va02",
+        "name": "Ballotpedia — Virginia's 2nd Congressional District election, 2026",
+        "short": "Ballotpedia VA-02",
+        "url": "https://ballotpedia.org/Virginia%27s_2nd_Congressional_District_election,_2026",
+        "publisher": "Ballotpedia",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-whro": {
+        "id": "src-whro",
+        "name": "WHRO Public Media — Hampton Roads news",
+        "short": "WHRO",
+        "url": "https://www.whro.org",
+        "publisher": "WHRO Public Media",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-vpm": {
+        "id": "src-vpm",
+        "name": "VPM (Virginia Public Media) — Virginia statewide news",
+        "short": "VPM",
+        "url": "https://www.vpm.org",
+        "publisher": "Virginia Public Media",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-wapo-va": {
+        "id": "src-wapo-va",
+        "name": "Washington Post — Virginia politics coverage",
+        "short": "Washington Post",
+        "url": "https://www.washingtonpost.com",
+        "publisher": "The Washington Post",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-npr-va": {
+        "id": "src-npr-va",
+        "name": "NPR — Virginia redistricting and elections",
+        "short": "NPR",
+        "url": "https://www.npr.org",
+        "publisher": "NPR",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "evt-va02-primary-reg-deadline",
+        "milestone": "Voter registration deadline — primary",
+        "electionType": "primary",
+        "date": "2026-07-24",
+        "significance": "Last day to register online or by mail to receive a regular ballot for the August 4, 2026 primary. After July 24, voters may register same-day (provisional) through Election Day per Virginia's same-day registration law.",
+        "governingAuthority": "Virginia Department of Elections",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2",
+          "src-vbeach-registrar"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-va02-primary-early-start",
+        "milestone": "In-person early voting begins — primary",
+        "electionType": "primary",
+        "date": "2026-06-19",
+        "significance": "Virginia's 45-day no-excuse in-person early voting window opens for the August 4 primary (June 19 for most localities; June 18 for localities observing Juneteenth). Voters may cast ballots at their local registrar's office during business hours. Virginia Beach's early voting is at 500 Studio Drive.",
+        "governingAuthority": "Virginia Department of Elections; local general registrars",
+        "sourceIds": [
+          "src-va-elect",
+          "src-vbeach-registrar",
+          "src-va-code-24-2"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-va02-primary-same-day-reg-opens",
+        "milestone": "Same-day provisional registration window opens — primary",
+        "electionType": "primary",
+        "date": "2026-07-25",
+        "significance": "Beginning July 25 (day after standard registration deadline), voters who are not registered may register and vote using a same-day provisional registration ballot at their local registrar's office or polling place. These provisional ballots are reviewed by the local electoral board after election day before being counted.",
+        "governingAuthority": "Virginia Department of Elections",
+        "sourceIds": [
+          "src-va-elect",
+          "src-vbeach-registrar",
+          "src-va-code-24-2"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-va02-primary-day",
+        "milestone": "Primary election day — August 4",
+        "electionType": "primary",
+        "date": "2026-08-04",
+        "significance": "Virginia statewide congressional primary (moved from June 16 by HB 29). Only a Democratic primary is held in VA-02: Elaine Luria (heavy frontrunner, 97% prediction market odds) vs. Nila Devanath, Patrick Mosolf, and Bill Fleming. No Republican primary — Kiggans is uncontested. Polls open 6 AM – 7 PM. Photo ID required.",
+        "governingAuthority": "Virginia Department of Elections",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2",
+          "src-ballotpedia-va02"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-va02-primary-canvass",
+        "milestone": "Electoral board canvass — primary",
+        "electionType": "primary",
+        "date": "2026-08-14",
+        "significance": "Local electoral boards in each VA-02 jurisdiction (Virginia Beach, Suffolk, Franklin, Chesapeake, Southampton County, Isle of Wight County, Accomack County, Northampton County) meet to canvass primary results, including same-day provisional registration ballots, within approximately 10 days of election day per Virginia Code § 24.2-671.",
+        "governingAuthority": "Local electoral boards; Virginia Department of Elections",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-va02-primary-certification",
+        "milestone": "State Board of Elections certification — primary",
+        "electionType": "primary",
+        "date": "2026-08-25",
+        "significance": "Virginia State Board of Elections certifies official primary results and confirms the Democratic nominee for VA-02 (expected: Elaine Luria) and the Republican nominee (Jen Kiggans, uncontested) approximately 21 days after the primary.",
+        "governingAuthority": "Virginia State Board of Elections",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-va02-general-reg-deadline",
+        "milestone": "Voter registration deadline — general",
+        "electionType": "general",
+        "date": "2026-10-13",
+        "significance": "Last day to register online or by mail for the November 3, 2026 general election (22 days before election day under Virginia law). After October 13, voters may still register same-day (provisional) through Election Day.",
+        "governingAuthority": "Virginia Department of Elections",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-va02-general-early-start",
+        "milestone": "In-person early voting begins — general",
+        "electionType": "general",
+        "date": "2026-09-19",
+        "significance": "Virginia's 45-day no-excuse in-person early voting window opens for the November 3 general election (45 days before Election Day = September 19). One of the longest early voting windows in the United States. Voters cast ballots at their local general registrar's office during business hours; additional satellite sites may be available. No reason required.",
+        "governingAuthority": "Virginia Department of Elections; local general registrars",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2",
+          "src-vbeach-registrar"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-va02-general-absentee-request-deadline",
+        "milestone": "Absentee ballot request deadline — general",
+        "electionType": "general",
+        "date": "2026-10-23",
+        "significance": "Last day to request an absentee ballot by mail for the November 3 general election (11 days before election day under Virginia Code § 24.2-701). Voters who prefer to vote absentee by mail must submit their request to their local general registrar by this date.",
+        "governingAuthority": "Virginia Department of Elections",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-va02-general-same-day-reg-opens",
+        "milestone": "Same-day provisional registration window opens — general",
+        "electionType": "general",
+        "date": "2026-10-14",
+        "significance": "Beginning October 14 (day after standard registration deadline), voters not yet registered may register same-day at their local general registrar's office or polling place and cast a provisional ballot. Provisional same-day registration ballots are reviewed by the local electoral board after election day.",
+        "governingAuthority": "Virginia Department of Elections",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-va02-general-day",
+        "milestone": "General election day",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "U.S. midterm general election. VA-02: Jen Kiggans (R, incumbent) vs. Elaine Luria (D, expected nominee) — a rematch of the 2022 election. Polls open 6 AM – 7 PM. Photo ID required. Cook Political Report rates VA-02 Lean Republican (as of June 2026).",
+        "governingAuthority": "Virginia Department of Elections",
+        "sourceIds": [
+          "src-va-elect",
+          "src-ballotpedia-va02"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-va02-general-absentee-receipt-deadline",
+        "milestone": "Absentee ballot receipt deadline — general",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Absentee ballots must be received by the local general registrar's office by 7 PM on Election Day (November 3, 2026). Virginia does not count ballots that arrive after polls close on election day, unlike some states. Voters may also drop off absentee ballots at their polling place by close of polls.",
+        "governingAuthority": "Virginia Department of Elections",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-va02-general-canvass",
+        "milestone": "Electoral board canvass — general",
+        "electionType": "general",
+        "date": "2026-11-13",
+        "significance": "Local electoral boards in each VA-02 jurisdiction canvass general election results within approximately 10 days of election day, counting all provisional ballots (including same-day registration ballots). Electoral boards review provisional ballots in public meetings that voters have the right to attend.",
+        "governingAuthority": "Local electoral boards; Virginia Department of Elections",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-va02-general-certification",
+        "milestone": "State Board of Elections certification — general",
+        "electionType": "general",
+        "date": "2026-11-24",
+        "significance": "Virginia State Board of Elections certifies official general election results, including the VA-02 U.S. House race, approximately 21 days after election day per Virginia Code § 24.2-679.",
+        "governingAuthority": "Virginia State Board of Elections",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-va-photo-id",
+        "topic": "Photo ID requirement",
+        "currentRule": "Virginia requires photo ID to vote in person. Acceptable forms include: Virginia driver's license, U.S. passport, military or government-issued photo ID, employer-issued photo ID, student photo ID from a Virginia college/university, or a Virginia voter photo ID card issued free by registrar offices. Under a 2024 law, voters without acceptable ID may sign a reasonable impediment affidavit and cast a regular ballot; the ballot is not automatically provisional.",
+        "status": "active",
+        "whyItMatters": "All VA-02 voters voting in person at any polling location — including early voting at general registrar offices — must present acceptable photo ID. The 2024 reasonable impediment affidavit change means voters without ID are no longer automatically turned away; they complete the affidavit and vote a regular ballot.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2",
+          "src-vbeach-registrar"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Virginia Code § 24.2-643. Free voter photo ID cards available from any general registrar's office. Reasonable impediment affidavit option added by 2024 legislation. Expired state-issued photo IDs are acceptable per Virginia Beach guidance."
+      },
+      {
+        "id": "rule-va-early-voting-45day",
+        "topic": "No-excuse in-person early voting — 45 days",
+        "currentRule": "Virginia provides 45 days of no-excuse in-person early voting before any election. No reason required. Voters cast their ballot at their local general registrar's office. Virginia is among the states with the longest early voting windows in the United States. For the August 4, 2026 primary, early voting opens June 19 (June 18 for Juneteenth-observing localities). For the November 3 general, early voting opens September 19.",
+        "status": "active",
+        "whyItMatters": "VA-02 voters across Virginia Beach, Suffolk, Franklin, Chesapeake, the Eastern Shore, Isle of Wight County, and Southampton County can vote any weekday (and some weekends) for 45 days before election day. Virginia Beach added four weekend early voting days for the August 4 primary through August 1.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2",
+          "src-vbeach-registrar"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Virginia Code § 24.2-701.1 (no-excuse absentee/early voting). Early voting conducted at the general registrar's office and any authorized satellite absentee voting locations. Hours vary by jurisdiction; check each local registrar for schedule."
+      },
+      {
+        "id": "rule-va-same-day-registration",
+        "topic": "Same-day voter registration (provisional)",
+        "currentRule": "Virginia voters who miss the standard registration deadline (22 days before election day) may register same-day at their local general registrar's office or polling place and cast a provisional ballot. Same-day registrants must present acceptable ID. Their provisional ballot is held and reviewed by the local electoral board after election day before being counted. Voters have the right to attend the electoral board's canvass meeting.",
+        "status": "active",
+        "whyItMatters": "Voters in VA-02 jurisdictions who miss standard deadlines (July 24 for the primary; October 13 for the general) may still register and vote using this process. The provisional ballot review adds uncertainty — ballots are not automatically counted on election night.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2",
+          "src-vbeach-registrar"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Virginia Code § 24.2-419.1 (same-day registration). Enacted 2022. Provisional ballots from same-day registrants are reviewed by local electoral boards at post-election canvass. Voters must provide proof of residency at time of same-day registration."
+      },
+      {
+        "id": "rule-va-absentee-no-excuse",
+        "topic": "No-excuse absentee voting by mail",
+        "currentRule": "Any registered Virginia voter may request an absentee ballot by mail for any election — no excuse or reason required. Requests must be submitted by the 11th day before the election (October 23 for the November 3 general; approximately July 24 for the August 4 primary). Voted absentee ballots must be received by the local general registrar by 7 PM on Election Day — Virginia does not count late-arriving mail ballots.",
+        "status": "active",
+        "whyItMatters": "VA-02 voters can request and return mail/absentee ballots. Unlike some other states, Virginia does not accept ballots postmarked by Election Day — ballots must physically arrive by 7 PM on Election Day. Eastern Shore (Accomack/Northampton) voters relying on mail should account for delivery time.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Virginia Code §§ 24.2-700–24.2-714. Absentee ballot applications available through ELECT portal (vote.elections.virginia.gov). Ballots can also be returned in person to the registrar's office or at the voter's polling place by close of polls on Election Day."
+      },
+      {
+        "id": "rule-va-provisional-ballots",
+        "topic": "Provisional ballots",
+        "currentRule": "A provisional ballot is issued when a voter's eligibility cannot be immediately confirmed — e.g., the voter's name does not appear on the poll book, the voter is at the wrong precinct, or same-day registration is used after the standard deadline. Provisional ballots are reviewed by the local electoral board at the post-election canvass, typically within 10 days of election day. Voters may attend the public canvass meeting.",
+        "status": "active",
+        "whyItMatters": "Provisional ballots in VA-02's multiple jurisdictions (Virginia Beach, Chesapeake, Suffolk, etc.) may not be counted until after the canvass. In a close race, provisional ballot totals can be decisive. Same-day registrants automatically receive provisional ballots.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Virginia Code § 24.2-651. Voters have the right to attend the electoral board canvass meeting where provisional ballots are adjudicated. Electoral board decisions are appealable to circuit court."
+      },
+      {
+        "id": "rule-va-voter-registration-deadline",
+        "topic": "Standard voter registration deadline — 22 days",
+        "currentRule": "Virginia's standard voter registration deadline is 22 days before any election. For the August 4, 2026 primary: July 13. For the November 3, 2026 general: October 13. Registration available online (vote.elections.virginia.gov), by mail, or in person at the general registrar's office. Same-day provisional registration is available after the deadline.",
+        "status": "active",
+        "whyItMatters": "VA-02 voters must register 22 days before election day to receive a regular (non-provisional) ballot. Voters who miss this deadline may still use same-day provisional registration.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Virginia Code § 24.2-416. Online registration at vote.elections.virginia.gov. The August 4 primary registration deadline per ELECT and Virginia Beach general registrar guidance is July 24 (consistent with 11-day vs. 22-day deadlines — confirm with ELECT). Mark for verification."
+      },
+      {
+        "id": "rule-va-general-registrars",
+        "topic": "General registrar offices administer local elections",
+        "currentRule": "Virginia uses an independent general registrar system for each city and county, rather than county clerks or boards of elections. VA-02 has eight separate general registrar jurisdictions: Virginia Beach, Suffolk, Franklin, Chesapeake, Southampton County, Isle of Wight County, Accomack County, and Northampton County. Each registrar operates independently under the oversight of the local electoral board and the state ELECT agency.",
+        "status": "active",
+        "whyItMatters": "Voters in each VA-02 jurisdiction must contact their own general registrar for jurisdiction-specific information. Voters registered in Virginia Beach, for example, cannot use the Suffolk registrar's office for early voting. Eastern Shore voters (Accomack, Northampton) have separate registrar offices serving a geographically distinct part of the district.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Virginia Code Title 24.2, Chapter 4 (Registration). Each general registrar appointed by the local electoral board. Virginia Beach registrar (Christine Lewis) oversees the largest single jurisdiction in VA-02, operating 100+ precincts and multiple early voting sites."
+      },
+      {
+        "id": "rule-va-electoral-board-canvass",
+        "topic": "Electoral board canvass and certification",
+        "currentRule": "After each election in Virginia, the local electoral board (three-member board appointed by the circuit court) meets to canvass results, review provisional and absentee ballots, and certify the local results. The canvass typically occurs within 10 days of election day. State Board of Elections certifies statewide results approximately 21 days after election day.",
+        "status": "active",
+        "whyItMatters": "Electoral board canvasses are public meetings. VA-02 voters who cast provisional or same-day registration ballots can attend their local canvass to confirm their ballots were counted. Close races in multi-jurisdiction districts like VA-02 may not have certified results until after all eight jurisdictions complete their canvasses.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Virginia Code § 24.2-671 (local canvass). Local canvass must be completed within 10 days of election day. Voters have right to attend local canvass proceedings per Virginia Code § 24.2-671."
+      },
+      {
+        "id": "rule-va-voter-rolls-purge-litigation",
+        "topic": "Voter roll maintenance — DMV/SAVE methodology (active litigation)",
+        "currentRule": "Virginia uses DMV citizenship records and the federal DHS SAVE database to identify potentially ineligible non-citizen registrants for removal from voter rolls. Gov. Youngkin issued EOs in August 2024 and September 2025 directing Commissioner Beals to expand these checks. The process is actively contested in federal court (VCIR et al. v. Beals, E.D. Va.) and a prior injunction restored ~1,600 registrations removed before the November 2024 election. The Trump DOJ separately sued Virginia in January 2026 for unredacted voter roll data. As of June 2026, the private lawsuit is in discovery; the outcome could affect VA-02 registrant counts ahead of the August 4 primary or November 3 general election.",
+        "status": "watch",
+        "whyItMatters": "Virginia Beach has large military-affiliated and immigrant-origin populations where naturalized citizens may be flagged by DMV citizenship codes. A pre-election injunction or rule change could trigger provisional-ballot processing surges across VA-02 jurisdictions. Dashboard users should monitor VCIR et al. v. Beals and any associated ELECT guidance before the August 4 primary.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2",
+          "src-vpm"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Virginia Code § 24.2-439 (list maintenance). VCIR et al. v. Beals, Case No. 1:24-cv-01176 (E.D. Va., Judge Patricia Tolliver Giles). 4th Circuit upheld preliminary injunction restoring 2024 registrations; SCOTUS temporarily reinstated the purge 6 days before November 2024 election without explanation. Civil suit survived MTD in August 2025 and entered discovery."
+      },
+      {
+        "id": "rule-va-primary-method",
+        "topic": "Primary election method — direct primary",
+        "currentRule": "Virginia congressional nominees are selected by direct primary. For VA-02 in 2026, the Democratic Party chose a direct primary. Only the Democratic primary will be held on August 4, 2026 — there is no Republican primary contest as Jen Kiggans is uncontested. The primary was moved from June 16 to August 4 by House Bill 29, signed by Gov. Spanberger on February 20, 2026.",
+        "status": "active",
+        "whyItMatters": "VA-02 voters registered as Democrats can participate in the August 4 Democratic primary to choose between Elaine Luria and three other candidates (Devanath, Mosolf, Fleming). Republican voters will see no U.S. House contest on the August 4 primary ballot.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2",
+          "src-ballotpedia-va02"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Virginia Code Title 24.2, Chapter 5 (Party Nominations). HB 29 (2026 Session) moved the primary from June 16 to August 4 for the 2026 cycle only. Virginia political parties may choose their own nomination method; the Democratic Party chose direct primary for VA-02."
+      },
+      {
+        "id": "rule-va-redistricting-2021-maps",
+        "topic": "District boundaries — 2021 court-ordered maps in effect",
+        "currentRule": "VA-02 uses the 2021 Virginia Supreme Court-ordered congressional maps for the 2026 cycle. The April 21, 2026 redistricting constitutional amendment (Proposition 1) was approved by voters but subsequently nullified by the Virginia Supreme Court (4-3, May 8, 2026), which held that the first General Assembly vote in October 2025 occurred while early voting was already underway for the November 2025 elections, violating Article XII, Section 1 of the Virginia Constitution. The U.S. Supreme Court declined to intervene on May 15, 2026.",
+        "status": "active",
+        "whyItMatters": "VA-02 retains its 2021 boundaries (R+5 Cook PVI) covering Virginia Beach, Suffolk, Franklin, Isle of Wight County, the Eastern Shore, parts of Chesapeake, and part of Southampton County. The Democratic-drawn map that would have altered these boundaries will not apply in 2026. Cook Political Report reverted its VA-02 rating to Lean Republican after the court ruling.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-va-elect",
+          "src-ballotpedia-va02",
+          "src-npr-va"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Virginia Supreme Court ruling, May 8, 2026 (4-3). Virginia Supreme Court Case No. pending. U.S. Supreme Court denied emergency application May 15, 2026. District boundaries from Bethune-Hill v. Va. State Bd. of Elections (2021 court-ordered remedial map) remain operative."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-va-elect",
+        "label": "Virginia Department of Elections (ELECT) — official portal",
+        "url": "https://www.elections.virginia.gov",
+        "description": "Official Virginia elections hub: voter registration, election calendar, absentee ballot requests, polling place lookup, candidate filings, and election results. Authoritative source for VA-02 election deadlines. Commissioner: Susan J. Beals. Phone: 1-800-552-9745.",
+        "governingAuthority": "Virginia Department of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-va-elect",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-va-register",
+        "label": "vote.elections.virginia.gov — Virginia voter registration",
+        "url": "https://vote.elections.virginia.gov",
+        "description": "Register to vote, update your registration, check your registration status, find your polling place, and request an absentee ballot online. Standard deadline for November 3, 2026 general: October 13. Same-day provisional registration available through Election Day.",
+        "governingAuthority": "Virginia Department of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-va-elect",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-vbeach-registrar",
+        "label": "Virginia Beach Voter Registration & Elections",
+        "url": "https://voter.virginiabeach.gov",
+        "description": "Official elections page for Virginia Beach voters — the largest jurisdiction in VA-02. Early voting locations, absentee ballot info, precinct finder, and election calendar. 500 Studio Drive, Virginia Beach, VA 23462. Phone: 757-385-8683. General Registrar: Christine Lewis.",
+        "governingAuthority": "City of Virginia Beach — General Registrar",
+        "sourceType": "official-county",
+        "sourceId": "src-vbeach-registrar",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-suffolk-registrar",
+        "label": "City of Suffolk — Voter Registration & Elections",
+        "url": "https://www.suffolkva.us/government/departments/voter_registration___elections/index.php",
+        "description": "Official elections page for Suffolk voters. Absentee ballot requests, early voting info, and polling place lookup for the second-largest full city in VA-02.",
+        "governingAuthority": "City of Suffolk General Registrar",
+        "sourceType": "official-county",
+        "sourceId": "src-suffolk-registrar",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-chesapeake-registrar",
+        "label": "City of Chesapeake — General Registrar",
+        "url": "https://www.cityofchesapeake.net/Government/City-Departments/Departments/General-Registrar.htm",
+        "description": "Official elections page for Chesapeake voters. Note: only part of Chesapeake falls within VA-02; the remainder is in VA-03. Chesapeake voters should verify their congressional district before voting in the VA-02 Democratic primary.",
+        "governingAuthority": "City of Chesapeake General Registrar",
+        "sourceType": "official-county",
+        "sourceId": "src-chesapeake-registrar",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-accomack-registrar",
+        "label": "Accomack County — General Registrar (Eastern Shore)",
+        "url": "https://www.accomackcounty.net/general-registrar",
+        "description": "Official elections page for Accomack County voters on the Eastern Shore — a geographically distinct part of VA-02 separated from the mainland by the Chesapeake Bay. Full county in VA-02.",
+        "governingAuthority": "Accomack County General Registrar",
+        "sourceType": "official-county",
+        "sourceId": "src-accomack-registrar",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-ballotpedia-va02",
+        "label": "Ballotpedia — VA-02 2026 election",
+        "url": "https://ballotpedia.org/Virginia%27s_2nd_Congressional_District_election,_2026",
+        "description": "Nonpartisan reference page for VA-02's 2026 election: candidate profiles, race ratings, campaign finance summary, and primary results when available. Covers Kiggans (R) vs. Luria (D, expected).",
+        "governingAuthority": "Ballotpedia",
+        "sourceType": "secondary",
+        "sourceId": "src-ballotpedia-va02",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-va-absentee",
+        "label": "Virginia ELECT — Absentee ballot application",
+        "url": "https://www.elections.virginia.gov/casting-a-ballot/absentee-voting/",
+        "description": "Apply for an absentee ballot by mail, track your absentee ballot status, and find your local general registrar's address to return your ballot in person. Ballots must be received by 7 PM on Election Day.",
+        "governingAuthority": "Virginia Department of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-va-elect",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-va-elect-results",
+        "label": "Virginia ELECT — Election results",
+        "url": "https://results.elections.virginia.gov",
+        "description": "Official Virginia election results portal: unofficial results on election night, and updated results through the canvass period. Covers VA-02 primary and general election results.",
+        "governingAuthority": "Virginia Department of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-va-elect",
+        "lastVerified": "2026-06-11"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-va02-001",
+        "title": "VA-02 dashboard initialized — 11 sources, 14 events, 11 rules wired",
+        "fieldChanged": "Dashboard configuration",
+        "oldValue": "Not configured",
+        "newValue": "Initial build June 11, 2026. All 11 sources (VA ELECT, Virginia Code § 24.2, Virginia Beach/Suffolk/Chesapeake/Accomack general registrars, Ballotpedia, WHRO, VPM, Washington Post, NPR) verified reachable. 14 election events and 11 voting rules researched from ELECT and Virginia Code § 24.2. All events and rules marked needsReview/unconfirmed pending authoritative 2026-specific deadline confirmation from local general registrars. Primary moved to August 4 by HB 29 (signed Feb 20, 2026).",
+        "sourceIds": [
+          "src-va-elect",
+          "src-va-code-24-2",
+          "src-vbeach-registrar"
+        ],
+        "detectedAt": "2026-06-11T19:45:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      },
+      {
+        "id": "upd-va02-002",
+        "title": "VA-02 general election candidates: Kiggans (R, uncontested) vs. Luria (D, heavy frontrunner — primary Aug 4)",
+        "fieldChanged": "General election candidate status",
+        "oldValue": "Primary pending (August 4, 2026)",
+        "newValue": "Rep. Jen Kiggans (R, incumbent, uncontested) is the presumptive Republican nominee — no Republican primary. Democratic primary (August 4): Elaine Luria is the heavy frontrunner (97% prediction market odds, DCCC Red to Blue, ~$2M cash-on-hand Q1 2026) against Nila Devanath, Patrick Mosolf, and Bill Fleming. Five candidates previously withdrew (Strickler, Osyf, Sleister, Williamson, Stringfellow). State Board of Elections expected to certify nominees ~August 25.",
+        "sourceIds": [
+          "src-ballotpedia-va02",
+          "src-va-elect"
+        ],
+        "detectedAt": "2026-06-11T19:45:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-va02-003",
+        "title": "All rules and event dates flagged for local registrar verification — 8 jurisdictions",
+        "fieldChanged": "QA status",
+        "oldValue": "Not yet reviewed",
+        "newValue": "11 voting rules and 14 election events all marked needsReview: true, confidence: unconfirmed (lastVerified 2026-06-11). Verify with Virginia Beach, Suffolk, Franklin, Chesapeake, Southampton County, Isle of Wight County, Accomack County, and Northampton County general registrars before publish. Voter roll litigation (VCIR et al. v. Beals) status should be re-checked before primary.",
+        "sourceIds": [
+          "src-va-code-24-2",
+          "src-va-elect"
+        ],
+        "detectedAt": "2026-06-11T19:45:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conf-va02-001",
+        "factInQuestion": "Whether Virginia's accelerated voter roll removal program — using DMV citizenship data and the DHS SAVE database — will again unlawfully purge eligible naturalized citizens and other qualified voters from VA-02 registration rolls before the August 4, 2026 primary or November 3, 2026 general election.",
+        "sourceAId": "src-va-elect",
+        "sourceAClaim": "Virginia ELECT Commissioner Susan Beals and the Youngkin/Spanberger administration maintain that daily cross-checks of DMV non-citizen records against voter rolls, and expanded SAVE database use under EO-35 (August 2024) and EO-36 (September 2025), are lawful list-maintenance procedures under Virginia Code § 24.2-439 and are necessary to remove ineligible noncitizen voters. The U.S. Supreme Court — without explanation — temporarily reinstated the 2024 program in the final six days before the November 2024 election.",
+        "sourceBId": "src-vpm",
+        "sourceBClaim": "A coalition of civil rights organizations (Virginia Coalition for Immigrant Rights, League of Women Voters of Virginia, Communities Together) and, previously, Biden's DOJ argued in federal court (VCIR et al. v. Beals, E.D. Va., Judge Patricia Tolliver Giles) that the program systematically removed voters during the NVRA's 90-day pre-election quiet period based on DMV data that is frequently inaccurate or outdated for naturalized citizens. Judge Giles granted a preliminary injunction in October 2024 ordering restoration of ~1,600 registrations; the 4th Circuit upheld that ruling. As of August 2025, the private lawsuit survived a motion to dismiss and is in discovery ahead of the 2026 cycle. The Trump DOJ separately sued Virginia in January 2026 to obtain unredacted voter roll data under NVRA/HAVA, adding further uncertainty about roll-maintenance procedures.",
+        "whyItMatters": "VA-02 includes Virginia Beach — a major metro area with large military-affiliated and immigrant-origin populations where naturalized citizens are among those most likely to be flagged by DMV citizenship codes. If the ongoing litigation produces a pre-election injunction or new rule for 2026, registrar offices in Virginia Beach, Chesapeake, Suffolk, and the Eastern Shore could face last-minute restoration orders similar to 2024, triggering provisional-ballot processing surges across all eight VA-02 jurisdictions.",
+        "suggestedReviewAction": "Monitor VCIR et al. v. Beals (E.D. Va., Case No. 1:24-cv-01176) docket for any preliminary injunction motions ahead of the August 4, 2026 primary NVRA quiet period (May 5 – August 4). Update the voter-rolls rule and add a news item if a new injunction issues or if the Trump DOJ suit produces a court order affecting VA-02 registrars. Confirm with ELECT Commissioner Beals's office whether the DMV/SAVE purge methodology will run on the same schedule in 2026.",
+        "severity": "high",
+        "status": "unresolved",
+        "createdAt": "2026-06-11T19:45:00Z"
+      }
+    ],
+    "NEWS": [
+      {
+        "id": "news-va02-001",
+        "headline": "Primary Election Moved to August 4",
+        "sourceName": "Virginia Department of Elections (ELECT)",
+        "url": "https://www.elections.virginia.gov/news-releases/primary-election-moved-to-august-4-1.html",
+        "publishedAt": "2026-02-24",
+        "relevanceSummary": "Virginia's Department of Elections (Commissioner Susan J. Beals) announced that the 2026 primary for all congressional and federal offices — including VA-02's Democratic contest — was moved from June 16 to August 4, 2026, following enactment of House Bill 29 signed by Gov. Spanberger on February 20. Early in-person voting begins June 19 (or June 18 for localities observing Juneteenth), the voter registration deadline is July 24, and same-day provisional registration begins July 25. The change affects every jurisdiction in the VA-02 district, including Virginia Beach, Chesapeake, Suffolk, the Eastern Shore counties, and Isle of Wight County.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-002",
+        "headline": "Vote 2026: Early Voting for Aug. 4 Primary Election Begins June 18",
+        "sourceName": "City of Virginia Beach – Voter Registration & Elections (General Registrar)",
+        "url": "https://virginiabeach.gov/connect/blog/early-voting",
+        "publishedAt": "2026-06-09",
+        "relevanceSummary": "Virginia Beach's Director of Elections/General Registrar Christine Lewis announced early in-person voting for the August 4 primary opens June 18 at the new Voter Registrar's Office at 500 Studio Drive, with four additional weekend voting days through August 1. The only VA-02 contest on the primary ballot is the Democratic U.S. House District 2 race; there is no Republican primary. Same-day registrants after the July 24 deadline must cast provisional ballots that go through electoral board review before being counted.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-003",
+        "headline": "Vote 2026: Four Things to Remember Before You Vote in the April 21 Special Election",
+        "sourceName": "City of Virginia Beach – Voter Registration & Elections (General Registrar)",
+        "url": "https://virginiabeach.gov/connect/blog/things-to-remember-before-you-vote",
+        "publishedAt": "2026-04-17",
+        "relevanceSummary": "Virginia Beach's general registrar office published a voter-procedures reminder covering the four key rules for VA-02 voters: acceptable photo ID (including expired state-issued IDs), precinct assignment lookup, same-day provisional registration, and what's on the ballot. The guidance clarifies Virginia's same-day registration law — provisional ballots from same-day registrants are reviewed by the local electoral board after election day, and voters have the right to attend that meeting. This covers the same procedural rules that apply to the August 4 primary and November 3 general election.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-004",
+        "headline": "Some Hampton Roads students will not be in school buildings on day of special election",
+        "sourceName": "WHRO Public Media",
+        "url": "https://www.whro.org/local-government/2026-03-31/some-hampton-roads-students-will-not-be-in-school-buildings-on-day-of-special-election",
+        "publishedAt": "2026-03-31",
+        "relevanceSummary": "WHRO reported that VA-02's largest jurisdictions — Virginia Beach (58 schools as polling stations), Suffolk, and Hampton — would close schools to students on April 21 special election day, reflecting how deeply integrated school facilities are with local polling infrastructure across Hampton Roads. Virginia Beach made up for lost instruction time by adding 10 minutes to school days from April 13 through June 8. The story illustrates the scale of VA-02's physical election administration: Virginia Beach alone operates over 100 precincts.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-005",
+        "headline": "Court rejects Virginia redistricting in a blow to Democrats",
+        "sourceName": "NPR",
+        "url": "https://www.npr.org/2026/05/08/nx-s1-5805193/redistricting-virginia-trump-midterms",
+        "publishedAt": "2026-05-08",
+        "relevanceSummary": "The Virginia Supreme Court ruled 4-3 that the April 21 redistricting constitutional amendment was procedurally void because the General Assembly's first vote in October 2025 occurred after early voting had begun in the intervening House of Delegates election — violating Article XII, Section 1 of the Virginia Constitution's requirement for a 'general election' between two legislative votes. The U.S. Supreme Court declined to intervene on May 15. The ruling restores the 2021 court-ordered congressional maps for November 2026, meaning VA-02 retains its R+5 Cook PVI configuration covering Virginia Beach, Suffolk, Franklin, Isle of Wight County, the Eastern Shore, part of Chesapeake, and part of Southampton County.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-006",
+        "headline": "Youngkin signs order directing removal of non-citizens from voter rolls amid ongoing federal lawsuit",
+        "sourceName": "VPM (Virginia Public Media)",
+        "url": "https://www.vpm.org/elections/2025-09-18/election-2025-youngkin-executive-order-voter-removal-homeland-security-beals",
+        "publishedAt": "2025-09-18",
+        "relevanceSummary": "Gov. Youngkin signed a new executive order (Sept. 18, 2025) directing ELECT Commissioner Susan Beals to expand use of the DHS SAVE database to identify non-citizen registrants — while a federal lawsuit over his August 2024 voter-purge EO remained active in the Eastern District of Virginia (VCIR et al. v. Beals). The 2024 EO had triggered a district court injunction restoring ~1,600 purged registrations, upheld by the 4th Circuit; the U.S. Supreme Court temporarily reinstated the purge 6 days before the November 2024 election without explanation. As of August 2025, civil rights groups' lawsuit survived a motion to dismiss and entered discovery, creating ongoing uncertainty about whether the same DMV-based methodology could affect VA-02 registrant lists ahead of the 2026 cycle.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      }
+    ],
+    "LAST_REFRESH": {
+      "id": "run-2026-06-11-va-02-initial",
+      "startedAt": "2026-06-11T19:00:00Z",
+      "completedAt": "2026-06-11T19:45:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 11,
+      "updatesCreated": 0,
+      "conflictsCreated": 1,
+      "errors": [],
+      "summary": "Initial build June 11, 2026. All 11 sources verified. VA-02 primary is August 4, 2026 (moved from June 16 by HB 29 signed Feb 20). Only Democratic primary in VA-02 — Luria (heavy frontrunner, 97%) vs. Devanath, Mosolf, Fleming. Kiggans (R) uncontested. General election Nov 3, 2026. 2021 court-ordered maps remain in effect after VA Supreme Court nullified April 2026 redistricting amendment. Voter roll purge litigation (VCIR et al. v. Beals) active in E.D. Va. — flagged as active conflict. All 14 events and 11 rules marked needsReview/unconfirmed pending local registrar verification across 8 VA-02 jurisdictions."
+    },
+    "NEXT_REFRESH_AT": "2026-06-18T19:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-va02-2026-w24",
+      "periodStart": "2026-06-08",
+      "periodEnd": "2026-06-14",
+      "sourcesChecked": 11,
+      "newUpdates": 0,
+      "conflictsCreated": 1,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 14,
+      "sourceErrors": 0,
+      "summary": "Initial build week of June 8–14, 2026. VA-02 dashboard created. Primary moved to August 4 (HB 29). Luria (D) is 97% frontrunner in Democratic primary vs. Devanath, Mosolf, Fleming. Kiggans (R) uncontested. Cook: Lean R after VA Supreme Court nullified redistricting amendment May 8. 2021 court-ordered district boundaries (R+5 PVI) remain. VA-02 covers Virginia Beach, Suffolk, Franklin, parts of Chesapeake and Southampton County, Isle of Wight County, Accomack County, and Northampton County (Eastern Shore). Voter roll purge litigation (VCIR et al. v. Beals, E.D. Va.) flagged as active conflict. 45-day early voting (June 19–Aug 3 for primary; Sept 19–Nov 2 for general). Photo ID required with reasonable impediment affidavit option. Same-day provisional registration through Election Day. All 14 events and 11 rules flagged needsReview pending 8-jurisdiction local verification.",
+      "generatedAt": "2026-06-11T19:45:00Z"
+    }
+  }
+}
