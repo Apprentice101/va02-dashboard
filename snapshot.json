@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-11",
-  "updatedAt": "2026-06-11T19:45:00Z",
-  "exportedAt": "2026-07-01T05:40:42.864Z",
+  "dataAsOf": "2026-07-01",
+  "updatedAt": "2026-07-01T19:57:36.476Z",
+  "exportedAt": "2026-07-01T20:04:38.584Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-07-01",
         "confidence": "high"
       },
       "src-va-code-24-2": {
@@ -427,7 +427,7 @@
       {
         "id": "rule-va-photo-id",
         "topic": "Photo ID requirement",
-        "currentRule": "Virginia requires photo ID to vote in person. Acceptable forms include: Virginia driver's license, U.S. passport, military or government-issued photo ID, employer-issued photo ID, student photo ID from a Virginia college/university, or a Virginia voter photo ID card issued free by registrar offices. Under a 2024 law, voters without acceptable ID may sign a reasonable impediment affidavit and cast a regular ballot; the ballot is not automatically provisional.",
+        "currentRule": "Virginia law requires voters to provide either an acceptable form of identification or to sign an ID Confirmation Statement when voting in person. Acceptable IDs include, among others: Virginia driver’s license or DMV-issued ID card (current or expired), valid employee photo ID, U.S. military ID, valid student ID from a public or private high school or institution of higher education located in Virginia, ID cards issued by the U.S. government, the Commonwealth of Virginia, or a local Virginia government, a Virginia voter photo ID card, voter confirmation documents, and certain non-photo documents such as a current utility bill, bank statement, government check, paycheck, or other current government document containing the voter’s name and address. Any voter who does not present acceptable identification may instead sign an ID Confirmation Statement and vote a regular ballot; a voter who neither presents acceptable ID nor signs the statement must vote a provisional ballot.",
         "status": "active",
         "whyItMatters": "All VA-02 voters voting in person at any polling location — including early voting at general registrar offices — must present acceptable photo ID. The 2024 reasonable impediment affidavit change means voters without ID are no longer automatically turned away; they complete the affidavit and vote a regular ballot.",
         "governingLevel": "statewide",
@@ -825,17 +825,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-06-11-va-02-initial",
-      "startedAt": "2026-06-11T19:00:00Z",
-      "completedAt": "2026-06-11T19:45:00Z",
-      "triggerType": "manual",
+      "id": "run-2026-07-01-va02-auto",
+      "startedAt": "2026-07-01T19:57:32.061Z",
+      "completedAt": "2026-07-01T19:57:36.476Z",
+      "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 0,
-      "conflictsCreated": 1,
+      "updatesCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Initial build June 11, 2026. All 11 sources verified. VA-02 primary is August 4, 2026 (moved from June 16 by HB 29 signed Feb 20). Only Democratic primary in VA-02 — Luria (heavy frontrunner, 97%) vs. Devanath, Mosolf, Fleming. Kiggans (R) uncontested. General election Nov 3, 2026. 2021 court-ordered maps remain in effect after VA Supreme Court nullified April 2026 redistricting amendment. Voter roll purge litigation (VCIR et al. v. Beals) active in E.D. Va. — flagged as active conflict. All 14 events and 11 rules marked needsReview/unconfirmed pending local registrar verification across 8 VA-02 jurisdictions."
+      "summary": "Automated refresh completed 2026-07-01 for VA-02. Sources checked: 11. LLM verifications: 1. 1 rule/source content change + 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-06-18T19:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-08T19:57:36.476Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
