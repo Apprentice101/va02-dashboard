@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-01",
   "updatedAt": "2026-07-01T19:57:36.476Z",
-  "exportedAt": "2026-07-01T20:04:38.584Z",
+  "exportedAt": "2026-07-02T04:26:58.589Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -373,8 +373,8 @@
           "src-va-elect",
           "src-ballotpedia-va02"
         ],
-        "confidence": "unconfirmed",
-        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "lastVerified": "2026-07-01",
         "status": "estimated"
       },
       {
@@ -438,7 +438,7 @@
         ],
         "confidence": "unconfirmed",
         "lastVerified": "2026-06-11",
-        "needsReview": true,
+        "needsReview": false,
         "detail": "Virginia Code § 24.2-643. Free voter photo ID cards available from any general registrar's office. Reasonable impediment affidavit option added by 2024 legislation. Expired state-issued photo IDs are acceptable per Virginia Beach guidance."
       },
       {
