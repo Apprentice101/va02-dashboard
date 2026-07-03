@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-03",
-  "updatedAt": "2026-07-03T00:32:59.122Z",
-  "exportedAt": "2026-07-03T00:38:28.934Z",
+  "updatedAt": "2026-07-03T01:37:05.726Z",
+  "exportedAt": "2026-07-03T01:43:58.143Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -822,20 +822,60 @@
         "relevanceSummary": "Gov. Youngkin signed a new executive order (Sept. 18, 2025) directing ELECT Commissioner Susan Beals to expand use of the DHS SAVE database to identify non-citizen registrants — while a federal lawsuit over his August 2024 voter-purge EO remained active in the Eastern District of Virginia (VCIR et al. v. Beals). The 2024 EO had triggered a district court injunction restoring ~1,600 purged registrations, upheld by the 4th Circuit; the U.S. Supreme Court temporarily reinstated the purge 6 days before the November 2024 election without explanation. As of August 2025, civil rights groups' lawsuit survived a motion to dismiss and entered discovery, creating ongoing uncertainty about whether the same DMV-based methodology could affect VA-02 registrant lists ahead of the 2026 cycle.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0v0x340",
+        "headline": "Early voting kicks off in Virginia Beach congressional primary",
+        "sourceName": "WTKR",
+        "url": "https://www.wtkr.com/news/in-the-community/virginia-beach/early-voting-kicks-off-in-virginia-beach-congressional-primary",
+        "publishedAt": "2026-06-19",
+        "relevanceSummary": "WTKR reports that early voting has begun in Virginia’s congressional primaries, with Virginia Beach voters now able to cast ballots in the Democratic primary for the 2nd Congressional District and noting that early voting started Thursday because most local polls will be closed Friday for Juneteenth and that Election Day is August 4.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0dl0kq5",
+        "headline": "Early voting is underway in Virginia's August primaries, which will select nominees for congressional seats",
+        "sourceName": "7News DC / UpVote Virginia",
+        "url": "https://www.facebook.com/7NewsDC/posts/early-voting-is-underway-in-virginias-august-primaries-which-will-select-nominee/1456301523197675/",
+        "publishedAt": "2026-06-18",
+        "relevanceSummary": "UpVote Virginia via 7News DC highlights that early voting is underway for Virginia’s August primaries to select nominees for congressional seats and shares information about the new congressional district maps and primary election details, which apply statewide and help VA-02 voters understand how redistricting and the current primary schedule affect them.[6]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0gat51n",
+        "headline": "Ready for another election? Early voting starts today for the Aug. 4 primaries",
+        "sourceName": "Cardinal News",
+        "url": "https://cardinalnews.org/2026/06/18/ready-for-another-election-early-voting-starts-today-for-the-aug-4-primaries/",
+        "publishedAt": "2026-06-18",
+        "relevanceSummary": "Cardinal News explains that early voting for Virginia’s August 4 congressional primaries begins June 18, detailing the timing and context following a recent Virginia Supreme Court ruling about a mis-placed special election, which informs VA-02 voters about the current primary schedule and early voting window.[8]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0i6wow5",
+        "headline": "Early voting in party primaries for November's congressional elections begins later this week",
+        "sourceName": "WHRO Public Media",
+        "url": "https://www.facebook.com/whropublicmedia/posts/early-voting-in-party-primaries-for-novembers-congressional-elections-begins-lat/1480228407482686/",
+        "publishedAt": "2026-06-17",
+        "relevanceSummary": "WHRO Public Media notes that early voting in party primaries for November’s congressional elections in Virginia begins later in the week, providing VA-02 voters in the Hampton Roads area with timelines and basic procedural information for participating in the primaries.[5]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-03-va02-auto",
-      "startedAt": "2026-07-03T00:32:51.665Z",
-      "completedAt": "2026-07-03T00:32:59.122Z",
+      "startedAt": "2026-07-03T01:36:56.642Z",
+      "completedAt": "2026-07-03T01:37:05.726Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 0,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-03 for VA-02. Sources checked: 11. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-03 for VA-02. Sources checked: 11. LLM verifications: 2. No changes detected; all sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-07-10T00:32:59.122Z",
+    "NEXT_REFRESH_AT": "2026-07-10T01:37:05.726Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
