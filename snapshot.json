@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T06:26:17.725Z",
-  "exportedAt": "2026-07-08T06:29:54.833Z",
+  "updatedAt": "2026-07-08T19:39:06.378Z",
+  "exportedAt": "2026-07-08T19:44:40.392Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -866,16 +866,16 @@
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-08-va02-auto",
-      "startedAt": "2026-07-08T06:26:16.965Z",
-      "completedAt": "2026-07-08T06:26:17.725Z",
+      "startedAt": "2026-07-08T19:39:05.370Z",
+      "completedAt": "2026-07-08T19:39:06.378Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 11,
+      "sourcesChecked": 13,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for VA-02. Sources checked: 11. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-08 for VA-02. Sources checked: 13. LLM verifications: 5. No changes detected; all sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T06:26:17.725Z",
+    "NEXT_REFRESH_AT": "2026-07-15T19:39:06.378Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
