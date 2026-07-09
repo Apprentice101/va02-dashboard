@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-08",
   "updatedAt": "2026-07-08T19:39:06.378Z",
-  "exportedAt": "2026-07-08T20:36:38.173Z",
+  "exportedAt": "2026-07-09T17:05:26.763Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -609,50 +609,70 @@
     ],
     "RESOURCES": [
       {
-        "id": "res-va-elect",
-        "label": "Virginia Department of Elections (ELECT) — official portal",
-        "url": "https://www.elections.virginia.gov",
+        "id": "res-register",
+        "label": "Register to vote",
         "description": "Official Virginia elections hub: voter registration, election calendar, absentee ballot requests, polling place lookup, candidate filings, and election results. Authoritative source for VA-02 election deadlines. Commissioner: Susan J. Beals. Phone: 1-800-552-9745.",
+        "url": "https://www.elections.virginia.gov",
         "governingAuthority": "Virginia Department of Elections",
         "sourceType": "official-state",
         "sourceId": "src-va-elect",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-va-register",
-        "label": "vote.elections.virginia.gov — Virginia voter registration",
-        "url": "https://vote.elections.virginia.gov",
+        "id": "res-locations",
+        "label": "Find voting locations",
+        "description": "Official Virginia elections hub: voter registration, election calendar, absentee ballot requests, polling place lookup, candidate filings, and election results. Authoritative source for VA-02 election deadlines. Commissioner: Susan J. Beals. Phone: 1-800-552-9745.",
+        "url": "https://www.elections.virginia.gov",
+        "governingAuthority": "Virginia Department of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-va-elect",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-ballot-box",
+        "label": "Find ballot boxes",
+        "description": "Official FAQ page confirming the 24/7 ballot drop box location at the Voter Registration & Elections Office and drop-off options at voting locations.",
+        "url": "https://voter.virginiabeach.gov/elections/voter-faq",
+        "governingAuthority": "Virginia Beach Voter Registration & Elections",
+        "sourceType": "official-county",
+        "sourceId": "src-va02-county",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-check-reg",
+        "label": "Check registration status",
         "description": "Register to vote, update your registration, check your registration status, find your polling place, and request an absentee ballot online. Standard deadline for November 3, 2026 general: October 13. Same-day provisional registration available through Election Day.",
+        "url": "https://vote.elections.virginia.gov",
         "governingAuthority": "Virginia Department of Elections",
         "sourceType": "official-state",
         "sourceId": "src-va-elect",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-vbeach-registrar",
-        "label": "Virginia Beach Voter Registration & Elections",
-        "url": "https://voter.virginiabeach.gov",
-        "description": "Official elections page for Virginia Beach voters — the largest jurisdiction in VA-02. Early voting locations, absentee ballot info, precinct finder, and election calendar. 500 Studio Drive, Virginia Beach, VA 23462. Phone: 757-385-8683. General Registrar: Christine Lewis.",
-        "governingAuthority": "City of Virginia Beach — General Registrar",
-        "sourceType": "official-county",
-        "sourceId": "src-vbeach-registrar",
-        "lastVerified": "2026-06-11"
+        "id": "res-track",
+        "label": "Track your ballot",
+        "description": "Apply for an absentee ballot by mail, track your absentee ballot status, and find your local general registrar's address to return your ballot in person. Ballots must be received by 7 PM on Election Day.",
+        "url": "https://www.elections.virginia.gov/casting-a-ballot/absentee-voting/",
+        "governingAuthority": "Virginia Department of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-va-elect",
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-suffolk-registrar",
-        "label": "City of Suffolk — Voter Registration & Elections",
-        "url": "https://www.suffolkva.us/government/departments/voter_registration___elections/index.php",
-        "description": "Official elections page for Suffolk voters. Absentee ballot requests, early voting info, and polling place lookup for the second-largest full city in VA-02.",
-        "governingAuthority": "City of Suffolk General Registrar",
-        "sourceType": "official-county",
-        "sourceId": "src-suffolk-registrar",
-        "lastVerified": "2026-06-11"
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Official Virginia election results portal: unofficial results on election night, and updated results through the canvass period. Covers VA-02 primary and general election results.",
+        "url": "https://results.elections.virginia.gov",
+        "governingAuthority": "Virginia Department of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-va-elect",
+        "lastVerified": "2026-07-08"
       },
       {
         "id": "res-chesapeake-registrar",
         "label": "City of Chesapeake — General Registrar",
-        "url": "https://www.cityofchesapeake.net/Government/City-Departments/Departments/General-Registrar.htm",
         "description": "Official elections page for Chesapeake voters. Note: only part of Chesapeake falls within VA-02; the remainder is in VA-03. Chesapeake voters should verify their congressional district before voting in the VA-02 Democratic primary.",
+        "url": "https://www.cityofchesapeake.net/Government/City-Departments/Departments/General-Registrar.htm",
         "governingAuthority": "City of Chesapeake General Registrar",
         "sourceType": "official-county",
         "sourceId": "src-chesapeake-registrar",
@@ -661,8 +681,8 @@
       {
         "id": "res-accomack-registrar",
         "label": "Accomack County — General Registrar (Eastern Shore)",
-        "url": "https://www.accomackcounty.net/general-registrar",
         "description": "Official elections page for Accomack County voters on the Eastern Shore — a geographically distinct part of VA-02 separated from the mainland by the Chesapeake Bay. Full county in VA-02.",
+        "url": "https://www.accomackcounty.net/general-registrar",
         "governingAuthority": "Accomack County General Registrar",
         "sourceType": "official-county",
         "sourceId": "src-accomack-registrar",
@@ -671,31 +691,11 @@
       {
         "id": "res-ballotpedia-va02",
         "label": "Ballotpedia — VA-02 2026 election",
-        "url": "https://ballotpedia.org/Virginia%27s_2nd_Congressional_District_election,_2026",
         "description": "Nonpartisan reference page for VA-02's 2026 election: candidate profiles, race ratings, campaign finance summary, and primary results when available. Covers Kiggans (R) vs. Luria (D, expected).",
+        "url": "https://ballotpedia.org/Virginia%27s_2nd_Congressional_District_election,_2026",
         "governingAuthority": "Ballotpedia",
         "sourceType": "secondary",
         "sourceId": "src-ballotpedia-va02",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-va-absentee",
-        "label": "Virginia ELECT — Absentee ballot application",
-        "url": "https://www.elections.virginia.gov/casting-a-ballot/absentee-voting/",
-        "description": "Apply for an absentee ballot by mail, track your absentee ballot status, and find your local general registrar's address to return your ballot in person. Ballots must be received by 7 PM on Election Day.",
-        "governingAuthority": "Virginia Department of Elections",
-        "sourceType": "official-state",
-        "sourceId": "src-va-elect",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-va-elect-results",
-        "label": "Virginia ELECT — Election results",
-        "url": "https://results.elections.virginia.gov",
-        "description": "Official Virginia election results portal: unofficial results on election night, and updated results through the canvass period. Covers VA-02 primary and general election results.",
-        "governingAuthority": "Virginia Department of Elections",
-        "sourceType": "official-state",
-        "sourceId": "src-va-elect",
         "lastVerified": "2026-06-11"
       }
     ],
