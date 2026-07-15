@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T19:39:06.378Z",
-  "exportedAt": "2026-07-09T17:05:26.763Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:34:56.489Z",
+  "exportedAt": "2026-07-15T06:42:12.525Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-08",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-va-code-24-2": {
@@ -865,17 +865,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-08-va02-auto",
-      "startedAt": "2026-07-08T19:39:05.370Z",
-      "completedAt": "2026-07-08T19:39:06.378Z",
+      "id": "run-2026-07-15-va02-auto",
+      "startedAt": "2026-07-15T06:34:48.966Z",
+      "completedAt": "2026-07-15T06:34:56.489Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 13,
+      "sourcesChecked": 11,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for VA-02. Sources checked: 13. LLM verifications: 5. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-07-15 for VA-02. Sources checked: 11. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T19:39:06.378Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:34:56.489Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
