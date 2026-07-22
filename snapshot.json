@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:34:56.489Z",
-  "exportedAt": "2026-07-15T06:42:12.525Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:45:40.649Z",
+  "exportedAt": "2026-07-22T06:53:49.096Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "high"
       },
       "src-va-code-24-2": {
@@ -862,20 +862,60 @@
         "relevanceSummary": "WHRO Public Media notes that early voting in party primaries for November’s congressional elections in Virginia begins later in the week, providing VA-02 voters in the Hampton Roads area with timelines and basic procedural information for participating in the primaries.[5]",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-va02-05xp0em",
+        "headline": "Virginia supreme court blocks state’s new congressional map in blow to Democrats ahead of midterms",
+        "sourceName": "BuzzLine News",
+        "url": "https://www.buzzline.news/article/virginia-supreme-court-blocks-state-s-new-congressional-map-in-blow-to-democrats",
+        "publishedAt": "2026-07-22",
+        "relevanceSummary": "This could affect VA-02 voters because Virginia’s congressional-district boundaries determine which voters are in the district and which House race they participate in. The article says the Virginia Supreme Court struck down the new congressional map, making this a district-level procedural issue for voters and candidates alike.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-058c0l5",
+        "headline": "Virginia Democrats question DOJ's plan to monitor elections in Fairfax and Prince William counties",
+        "sourceName": "VPM News",
+        "url": "https://www.vpm.org/elections/2026-07-13/doj-elections-monitors-fairfax-prince-william-bagby-trump-dhillon-virginia",
+        "publishedAt": "2026-07-13",
+        "relevanceSummary": "The article reports that the U.S. Department of Justice will send federal election monitors to Fairfax and Prince William counties for Virginia's Aug. 4 congressional primaries, reflecting federal oversight of local election administration and raising broader concerns among state Democrats about how elections are run and monitored across Virginia.[4]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-02q93hm",
+        "headline": "Voter Guide: 2026 Primary Election",
+        "sourceName": "Virginia Mercury",
+        "url": "https://virginiamercury.com/voter-guides/2026-primary-election/",
+        "publishedAt": "2026-07-10",
+        "relevanceSummary": "This statewide voter guide explains key 2026 Virginia primary rules that apply directly to VA-02 voters, including early voting dates (June 19–Aug. 1), the July 24 deadline to register and cast a regular ballot, same-day registration with provisional ballots after that date, acceptable voter ID types, and Aug. 4 Election Day polling hours from 6 a.m. to 7 p.m.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0hpfltt",
+        "headline": "Election Guide: Virginia primaries set stage for mid-term showdowns",
+        "sourceName": "WJLA",
+        "url": "https://wjla.com/news/elections/virginia-congressional-primary-elections-midterm-show-down-redistricting",
+        "publishedAt": "2026-07-09",
+        "relevanceSummary": "This guide details Virginia’s congressional primary procedures relevant to VA-02 voters, including in-person early voting through Aug. 1 at designated polling locations, July 24 deadlines to register or request a mail-in ballot, curbside voting options for voters 65+ or with disabilities, voter ID or ID Confirmation Statement requirements, provisional ballot cure deadlines, and rules for returning mailed ballots or using drop-off locations.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-va02-auto",
-      "startedAt": "2026-07-15T06:34:48.966Z",
-      "completedAt": "2026-07-15T06:34:56.489Z",
+      "id": "run-2026-07-22-va02-auto",
+      "startedAt": "2026-07-22T06:45:29.029Z",
+      "completedAt": "2026-07-22T06:45:40.649Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 0,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for VA-02. Sources checked: 11. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-22 for VA-02. Sources checked: 11. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:34:56.489Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:45:40.649Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
