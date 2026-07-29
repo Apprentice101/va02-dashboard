@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:45:40.649Z",
-  "exportedAt": "2026-07-22T21:18:52.779Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:49:15.853Z",
+  "exportedAt": "2026-07-29T06:57:18.600Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-va-code-24-2": {
@@ -902,20 +902,70 @@
         "relevanceSummary": "This guide details Virginia’s congressional primary procedures relevant to VA-02 voters, including in-person early voting through Aug. 1 at designated polling locations, July 24 deadlines to register or request a mail-in ballot, curbside voting options for voters 65+ or with disabilities, voter ID or ID Confirmation Statement requirements, provisional ballot cure deadlines, and rules for returning mailed ballots or using drop-off locations.[1]",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-va02-07pmjdx",
+        "headline": "Senator Blunder Ignites Voter ID Uproar",
+        "sourceName": "republicanpress.org",
+        "url": "https://republicanpress.org/senator-blunder-ignites-voter-id-uproar/",
+        "publishedAt": "2026-07-29",
+        "relevanceSummary": "The article explains Virginia’s voter-ID rules, including that in-person voters may use a broad range of acceptable documents or sign an Identification Confirmation Statement instead of presenting photo ID. That is directly relevant to VA-02 voters because Virginia’s statewide ID rules apply in this district and the piece also highlights the special rule for first-time mail registrants in federal elections.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-07a7bq7",
+        "headline": "Mark Warner Corrected on Virginia Voter ID Law on Live TV",
+        "sourceName": "conservativeinstitute.org",
+        "url": "https://conservativeinstitute.org/politics/mark-warners-voter-id-stumble-on-live-tv-draws-sharp-fire-from-republican-challengers.htm",
+        "publishedAt": "2026-07-28",
+        "relevanceSummary": "This story says Virginia does not require photo ID for in-person voting and that voters can instead use a range of acceptable documents or sign an ID Confirmation Statement. It matters to VA-02 voters because it describes the current statewide identification rules that govern voting in Virginia, including this congressional district.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0v89a86",
+        "headline": "Virginia voter guide: Parties nominate candidates for Congress, local offices ahead of 2026 midterms",
+        "sourceName": "WTOP News",
+        "url": "https://wtop.com/virginia-election/2026/07/virginia-voter-guide-parties-nominate-candidates-for-congress-local-offices-ahead-of-2026-midterms/",
+        "publishedAt": "2026-07-24",
+        "relevanceSummary": "This guide lays out Virginia’s current voting procedures, including early in-person voting dates, registration and absentee-ballot deadlines, polling hours, drop-off options, and the ID-confirmation statement process. It matters to VA-02 voters because statewide Virginia rules govern their district, and the article notes that voters without ID can still vote a regular ballot after signing a statement.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0bsc2pv",
+        "headline": "House Passes 232-198 Voter ID Bill Tied to Congressional ...",
+        "sourceName": "zetik.com",
+        "url": "https://www.zetik.com/news/article/story_id-p008-170574",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "This report says the House passed a measure requiring photo ID for mail-in ballots and extending voter-identification rules to absentee voting, but that the proposal still needed Senate approval. VA-02 voters should track it because any federal voter-ID change would affect Virginia voters in the district if enacted.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0uw1iut",
+        "headline": "House passes bill that would ban members from buying stock",
+        "sourceName": "ABC News",
+        "url": "https://abcnews.com/Politics/house-passes-bill-ban-members-buying-stock/story?id=135001297",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "The article reports that the House passed legislation that would require photo ID for federal elections and allow mail-in voters to attach a photocopy of their ID to their ballot, while also permitting provisional ballots for voters who forget ID. It is relevant to VA-02 voters as a proposed federal voter-ID change, but it was not yet law at publication.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-va02-auto",
-      "startedAt": "2026-07-22T06:45:29.029Z",
-      "completedAt": "2026-07-22T06:45:40.649Z",
+      "id": "run-2026-07-29-va02-auto",
+      "startedAt": "2026-07-29T06:49:07.242Z",
+      "completedAt": "2026-07-29T06:49:15.853Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 4,
+      "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for VA-02. Sources checked: 11. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-29 for VA-02. Sources checked: 11. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:45:40.649Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:49:15.853Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
