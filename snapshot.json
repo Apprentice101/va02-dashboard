@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:49:15.853Z",
-  "exportedAt": "2026-07-29T06:57:18.600Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:42:57.190Z",
+  "exportedAt": "2026-08-05T06:50:54.229Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-va-code-24-2": {
@@ -952,20 +952,90 @@
         "relevanceSummary": "The article reports that the House passed legislation that would require photo ID for federal elections and allow mail-in voters to attach a photocopy of their ID to their ballot, while also permitting provisional ballots for voters who forget ID. It is relevant to VA-02 voters as a proposed federal voter-ID change, but it was not yet law at publication.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0itm339",
+        "headline": "Luria, Taylor, Mizusawa emerge as projected winners in Virginia's primaries",
+        "sourceName": "WTKR",
+        "url": "https://www.wtkr.com/news/politics/polls-closed-results-to-come-in-for-virginias-2026-primary-races",
+        "publishedAt": "2026-08-04",
+        "relevanceSummary": "Reports projected primary results including the four-way Democratic contest in Virginia’s 2nd Congressional District, indicating who will likely face incumbent GOP Rep. Jen Kiggans in November and confirming the field of qualified candidates for VA-02’s general election.[15]",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0nuj4dw",
+        "headline": "Virginia Democrats to pick nominees in House seats they hope to flip in midterms",
+        "sourceName": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/amp/politics/virginia-democrats-to-pick-nominees-in-house-seats-they-hope-to-flip-in-midterms",
+        "publishedAt": "2026-08-04",
+        "relevanceSummary": "Covers Virginia’s Democratic House primaries and notes primary procedures such as poll closing time at 7 p.m. ET and the timeline to the midterm elections, contextualizing the nomination process for VA-02’s Democratic candidate who will face the Republican incumbent in November.[11][18]",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0akr5ys",
+        "headline": "POLLS OPEN: What you need to know for Virginia's Primary Election Day",
+        "sourceName": "CBS Austin",
+        "url": "https://cbsaustin.com/news/nation-world/polls-open-what-you-need-to-know-for-virginias-primary-election-day",
+        "publishedAt": "2026-08-04",
+        "relevanceSummary": "Explains Virginia primary voting procedures that apply to VA-02 voters, including polling hours (6 a.m. to 7 p.m.), voter ID requirements, and the option to sign an ID Confirmation Statement or use a provisional ballot, as well as noting that Republican incumbent Jen Kiggans is already the party nominee in VA-02 and the Democratic primary will determine her November opponent.[3]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0fyexz6",
+        "headline": "Election Day is almost here, Virginia Beach!",
+        "sourceName": "City of Virginia Beach (Instagram reel)",
+        "url": "https://www.instagram.com/reel/DbdvLbNuDr1/",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "Local Virginia Beach election office reminds VA-02 voters to find their polling place through the state portal, bring valid ID, vote between 6 a.m. and 7 p.m., and notes that the Voter Registrar’s Office is not a polling location on Election Day.[14]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0yg2qvh",
+        "headline": "What Fairfax County voters need to know for the dual congressional primaries Tuesday",
+        "sourceName": "FFXnow",
+        "url": "https://www.ffxnow.com/2026/08/03/what-fairfax-county-voters-need-to-know-for-the-dual-congressional-primaries-tuesday/",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "Details Virginia election administration and procedures that apply statewide, including polling-place verification, accepted voter ID types, the ability to sign an ID confirmation statement or cast a provisional ballot, deadlines for voter registration and mail-in ballot requests, availability of same-day registration with provisional ballots, and rules for mail-in ballots and drop boxes.[13]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0mphn2f",
+        "headline": "Virginia votes Tuesday: Everything you need to know about the 2026 primary elections",
+        "sourceName": "Virginia Mercury",
+        "url": "https://virginiamercury.com/2026/08/03/virginia-votes-tuesday-everything-you-need-to-know-about-the-2026-primary-elections/",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "Provides statewide guidance on primary election procedures relevant to VA-02 voters, including polling hours, how to verify polling places and registration, and what counts as acceptable identification, as well as options for voters without ID such as signing an identity confirmation statement or casting a provisional ballot.[7]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-003cwef",
+        "headline": "Virginia Senators Can't Explain Their Own State's Voter ID Laws",
+        "sourceName": "AMAC Newsline",
+        "url": "https://amac.us/newsline/democrats-dont-even-know-their-own-election-laws",
+        "publishedAt": "2026-07-27",
+        "relevanceSummary": "Discusses Virginia’s current voter ID law, explaining that voters are asked to show one of several acceptable IDs but may instead sign an ID Confirmation Statement affirming their identity and still cast a regular ballot, and notes that non-photo documents like utility bills and bank statements qualify as ID under state rules.[6]",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-va02-auto",
-      "startedAt": "2026-07-29T06:49:07.242Z",
-      "completedAt": "2026-07-29T06:49:15.853Z",
+      "id": "run-2026-08-05-va02-auto",
+      "startedAt": "2026-08-05T06:42:43.559Z",
+      "completedAt": "2026-08-05T06:42:57.190Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 5,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for VA-02. Sources checked: 11. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-05 for VA-02. Sources checked: 11. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:49:15.853Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:42:57.190Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
