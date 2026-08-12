@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:42:57.190Z",
-  "exportedAt": "2026-08-05T06:50:54.229Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:43:09.987Z",
+  "exportedAt": "2026-08-12T05:50:36.732Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-va-code-24-2": {
@@ -1022,20 +1022,70 @@
         "relevanceSummary": "Discusses Virginia’s current voter ID law, explaining that voters are asked to show one of several acceptable IDs but may instead sign an ID Confirmation Statement affirming their identity and still cast a regular ballot, and notes that non-photo documents like utility bills and bank statements qualify as ID under state rules.[6]",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0s2kffr",
+        "headline": "Senate GOP fails to pass voter ID bill before recess",
+        "sourceName": "ECI KS",
+        "url": "https://eciks.org/19782-senate-gop-voter-id-bill-fails",
+        "publishedAt": "2026-08-09",
+        "relevanceSummary": "The article says the Senate failed to advance a voter-ID bill that would have required photo identification for federal elections. Virginia voters in VA-02 are affected only indirectly because the proposal did not become law, but it is still relevant procedural news.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0goulft",
+        "headline": "Voters spared as Senate recesses without passing SAVE America Act’s voter ID measure",
+        "sourceName": "Democracy Docket",
+        "url": "https://www.democracydocket.com/news-alerts/voters-spared-as-senate-recesses-without-passing-save-america-acts-voter-id-measure/",
+        "publishedAt": "2026-08-09",
+        "relevanceSummary": "This report explains that a Senate Republican-backed voter-ID measure failed before recess and would have required photo identification to cast ballots. It is relevant to VA-02 because it concerns federal election rules that would apply to Virginia voters if enacted, but it remains only a proposal.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0makgvg",
+        "headline": "Senate Democrats vote against bill requiring photo ID to cast ballots",
+        "sourceName": "Just the News",
+        "url": "https://justthenews.com/government/congress/senate-democrats-vote-against-bill-requiring-photo-id-cast-ballots",
+        "publishedAt": "2026-08-09",
+        "relevanceSummary": "The article reports that a federal voter-ID bill failed in the Senate and says it would have required photo identification to vote and a copy of ID when voting by mail. Virginia voters in VA-02 should know the proposal did not become law, so it does not change current voting procedures.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0ips5bi",
+        "headline": "Actions - S.5271 - 119th Congress (2025-2026): A bill to amend the Help America Vote Act of 2002 to require voters to provide photo identification.",
+        "sourceName": "Congress.gov",
+        "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5271/all-actions-without-amendments",
+        "publishedAt": "2026-08-08",
+        "relevanceSummary": "Congress’s official action page shows cloture on the motion to proceed to the federal photo-ID bill was not invoked by a 52-46 vote. That means the measure failed to advance and did not change voting rules for Virginia voters in VA-02.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-02m0le2",
+        "headline": "Kiggans Backs Commonsense Measures to Safeguard the Integrity of Federal Elections",
+        "sourceName": "Jen Kiggans",
+        "url": "https://kiggans.house.gov/2026/08/07/kiggans-backs-commonsense-measures-to-safeguard-the-integrity-of-federal-elections/",
+        "publishedAt": "2026-08-07",
+        "relevanceSummary": "This VA-02 member’s statement says she backed federal election measures that would require government-issued photo ID for voting and proof of U.S. citizenship to register in federal elections. If enacted, those rules would affect Virginia voters in this district directly, but the article is about proposed federal legislation rather than a current state change.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-va02-auto",
-      "startedAt": "2026-08-05T06:42:43.559Z",
-      "completedAt": "2026-08-05T06:42:57.190Z",
+      "id": "run-2026-08-12-va02-auto",
+      "startedAt": "2026-08-12T05:43:02.028Z",
+      "completedAt": "2026-08-12T05:43:09.987Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 7,
+      "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for VA-02. Sources checked: 11. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-12 for VA-02. Sources checked: 11. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:42:57.190Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:43:09.987Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
