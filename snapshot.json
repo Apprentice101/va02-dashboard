@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:43:09.987Z",
-  "exportedAt": "2026-08-12T05:50:36.732Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T05:02:12.979Z",
+  "exportedAt": "2026-08-19T05:10:43.818Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-va-code-24-2": {
@@ -1072,20 +1072,100 @@
         "relevanceSummary": "This VA-02 member’s statement says she backed federal election measures that would require government-issued photo ID for voting and proof of U.S. citizenship to register in federal elections. If enacted, those rules would affect Virginia voters in this district directly, but the article is about proposed federal legislation rather than a current state change.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0e4gtvk",
+        "headline": "Code of Virginia (2026 Updates) – firearm restrictions near registration sites",
+        "sourceName": "Virginia Code (official state law site)",
+        "url": "https://law.lis.virginia.gov/vacodeupdates/title24.2/section24.2-413/",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "This update to the Virginia election code makes it unlawful to knowingly carry a firearm within 100 feet of buildings being used as additional voter registration sites, with limited exceptions, clarifying statewide rules on weapons near election-related facilities that apply directly to VA-02 voters.[2]",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0md4i1u",
+        "headline": "Code of Virginia – candidate eligibility challenges and ballot printing deadlines",
+        "sourceName": "Virginia Code (official state law site)",
+        "url": "https://law.lis.virginia.gov/vacodefull/title24.2/",
+        "publishedAt": "2026-08-16",
+        "relevanceSummary": "This code section explains that legal actions challenging a candidate’s eligibility to appear on the ballot must be filed and served at least 90 days before a general election, outlining statewide rules that govern candidate qualification and ballot access for November, directly affecting which candidates VA-02 voters will see on their ballots.[12]",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-01u9ks6",
+        "headline": "Portsmouth Dems Energized for Midterms",
+        "sourceName": "Black Virginia News",
+        "url": "https://blackvirginianews.substack.com/p/portsmouth-dems-energized-for-midterms",
+        "publishedAt": "2026-08-16",
+        "relevanceSummary": "Among other political content, this update reminds readers of key statewide election dates, including that early voting in Virginia begins September 18 and notes the countdown to the November 3, 2026 midterms, providing VA-02 voters with basic calendar information on when they can start casting ballots.[9]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-06kwouq",
+        "headline": "2021 Uncodified Act – voter qualifications language",
+        "sourceName": "Virginia Code (uncodified acts)",
+        "url": "https://law.lis.virginia.gov/uncodifiedactssub/2021/session2/chapter516/",
+        "publishedAt": "2026-08-15",
+        "relevanceSummary": "This update reiterates and clarifies Virginia’s constitutional and statutory voter qualifications, including citizenship, age, residence in the Commonwealth and precinct, and voter registration requirements, summarizing foundational rules that govern who may vote in VA-02 elections.[11]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0swv5qf",
+        "headline": "2026 Elections – Absentee and early voting guidance",
+        "sourceName": "City of Roanoke, VA",
+        "url": "https://www.roanokeva.gov/2905/2026-Elections",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "Roanoke’s 2026 elections page details early voting dates, absentee ballot return deadlines, and practical guidance on returning mail ballots (including use of secured drop boxes at the elections office and polling places), offering a concrete example of Virginia local election administration and mail-ballot procedures that are similar to those governing VA-02 voters.[5]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-09nn06l",
+        "headline": "Larger gun-free zones around polling places arrive in Arlington without a hitch",
+        "sourceName": "ARLnow.com",
+        "url": "https://www.arlnow.com/2026/08/14/larger-gun-free-zones-around-polling-places-arrive-in-arlington-without-a-hitch/",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "This article explains the implementation of Virginia’s new law expanding gun-free zones around polling places, early voting sites, recount locations, registrars’ offices, and electoral board meeting sites from 40 to 100 feet, which affects the security environment and rules at voting locations statewide for VA-02 voters.[1]",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0dxpruy",
+        "headline": "Governor Spanberger encourages people to serve as election officers",
+        "sourceName": "Infocville",
+        "url": "https://infocville.com/2026/08/13/governor-spanberger-encourages-people-to-serve-as-election-officers/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "This piece describes Virginia’s requirements for serving as an Officer of Election (poll worker), including that workers must be qualified voters of the Commonwealth and complete an application, highlighting statewide election administration and staffing processes that affect how polling places in VA-02 will be run.[6]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0ooe7x3",
+        "headline": "Arlington officials finalize voting calendar for fall elections",
+        "sourceName": "ARLnow.com",
+        "url": "https://www.arlnow.com/2026/08/13/arlington-officials-finalize-voting-calendar-for-fall-elections/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "Arlington election officials set early voting dates, satellite voting locations, drop box availability, and deadlines for voter registration and mail ballot requests, illustrating how Virginia localities are implementing statewide procedures that mirror the timelines and options VA-02 voters can expect in their own localities.[4]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-va02-auto",
-      "startedAt": "2026-08-12T05:43:02.028Z",
-      "completedAt": "2026-08-12T05:43:09.987Z",
+      "id": "run-2026-08-19-va02-auto",
+      "startedAt": "2026-08-19T05:01:53.192Z",
+      "completedAt": "2026-08-19T05:02:12.979Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 5,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for VA-02. Sources checked: 11. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-19 for VA-02. Sources checked: 11. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:43:09.987Z",
+    "NEXT_REFRESH_AT": "2026-08-26T05:02:12.979Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
