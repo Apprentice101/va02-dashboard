@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T05:02:12.979Z",
-  "exportedAt": "2026-08-19T05:10:43.818Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T05:09:24.456Z",
+  "exportedAt": "2026-08-26T05:18:32.474Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-va-code-24-2": {
@@ -1152,20 +1152,100 @@
         "relevanceSummary": "Arlington election officials set early voting dates, satellite voting locations, drop box availability, and deadlines for voter registration and mail ballot requests, illustrating how Virginia localities are implementing statewide procedures that mirror the timelines and options VA-02 voters can expect in their own localities.[4]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0578sh0",
+        "headline": "757 Votes: Hampton Roads elections on the ballot in November 2026",
+        "sourceName": "The Virginian-Pilot",
+        "url": "https://www.pilotonline.com/2026/08/25/virginia-voter-guide-election-2026/",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This Hampton Roads voter guide covers what is on the ballot in November 2026, including a statewide constitutional amendment on the fundamental right to vote and restoration of voting rights after incarceration. Since VA‑02 is in the Hampton Roads region, the article is directly relevant for district voters evaluating ballot content and understanding how the amendment could affect voter qualifications.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-08ff8hp",
+        "headline": "Election 2026: A look at what's on the ballot this fall",
+        "sourceName": "Tammy Purcell (Substack)",
+        "url": "https://tammypurcell.substack.com/p/election-2026-a-look-at-whats-on",
+        "publishedAt": "2026-08-24",
+        "relevanceSummary": "This local Virginia overview for the 2026 general election explains key dates for registering to vote, requesting absentee ballots, and returning them either via mail or secure drop box, and it highlights Virginia’s same-day voter registration with provisional ballots. The article also reiterates that voters lacking ID can sign an ID confirmation statement, clarifying practical procedures that apply statewide, including in VA-02.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0ouuidi",
+        "headline": "Virginia Elections",
+        "sourceName": "VPM",
+        "url": "https://www.vpm.org/category/elections/",
+        "publishedAt": "2026-08-24",
+        "relevanceSummary": "VPM’s elections coverage provides a concise guide to what IDs Virginia voters can use at the polls—including driver’s licenses, military IDs, passports, tribal IDs, and certain government or financial documents—and notes that voters without acceptable ID may sign an ID Confirmation Statement to cast a regular ballot. These rules apply statewide and directly govern in-person voting procedures for VA-02.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0h6bmaz",
+        "headline": "Virginia Your Rights at the Polls",
+        "sourceName": "Fair Elections Center",
+        "url": "https://fairelectionscenter.org/guides/virginia-your-rights/",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This statewide rights guide outlines what information poll workers can request, clarifies that voters without ID can still vote by signing an identity attestation, and explains when election officials may ask for a Social Security number. It serves as a voter‑rights and voter‑ID procedural resource for all Virginia voters, including those in VA‑02.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0twg4v6",
+        "headline": "Early in-person voting in Virginia: Where, when, and how to vote",
+        "sourceName": "The Dogwood (Virginia)",
+        "url": "https://vadogwood.com/news/elections/early-in-person-voting-virginia/",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This article explains how early in‑person voting works in Virginia, including that voters must vote early only in the jurisdiction where they’re registered, what happens at check‑in, and the requirement to present acceptable ID or sign an ID statement. It also details ballot‑marking and tabulation procedures and describes how provisional ballots and post‑election ID cures work, all of which govern early‑voting logistics for VA‑02 voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0rhzz3d",
+        "headline": "The Virginia first-timer’s guide to voting in 2026",
+        "sourceName": "The Dogwood (Virginia)",
+        "url": "https://vadogwood.com/news/elections/virginia-first-time-voting/",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This statewide how-to guide explains how Virginians can register to vote online, by mail, or in person, and stresses key deadlines for registration. It also walks through requesting and returning no-excuse absentee-by-mail ballots, including permanent absentee options and the use of drop boxes, offering step‑by‑step procedural information useful to VA-02 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0tsdsb5",
+        "headline": "Virginia kicks off our 50 States in 50 Days series",
+        "sourceName": "inkl / national elections guide",
+        "url": "https://www.inkl.com/news/virginia-kicks-off-our-50-states-in-50-days-series",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This statewide explainer highlights that Virginia requires voter ID, lists examples such as a voter confirmation document, Virginia driver’s license, or U.S. passport, and notes that voters without ID may sign an identity statement or otherwise cast a provisional ballot. It also details absentee/mail-in ballot request and return deadlines, which govern mail voting for VA-02 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0mwaowb",
+        "headline": "Office of Elections/Voter Registration",
+        "sourceName": "Frederick County Office of Elections",
+        "url": "https://www.fcva.us/departments/office-of-elections-voter-registration",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "Frederick County’s elections office outlines key absentee-by-mail deadlines, ballot drop-box locations, polling-place hours (6 a.m.–7 p.m.), and a detailed list of acceptable IDs for voting in Virginia, information that applies statewide to VA-02 voters as well. It also clarifies there is no Election Day voting at the registrar’s office, emphasizing that voters must use their assigned polling place.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-va02-auto",
-      "startedAt": "2026-08-19T05:01:53.192Z",
-      "completedAt": "2026-08-19T05:02:12.979Z",
+      "id": "run-2026-08-26-va02-auto",
+      "startedAt": "2026-08-26T05:08:49.700Z",
+      "completedAt": "2026-08-26T05:09:24.456Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for VA-02. Sources checked: 11. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-26 for VA-02. Sources checked: 11. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T05:02:12.979Z",
+    "NEXT_REFRESH_AT": "2026-09-02T05:09:24.456Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
