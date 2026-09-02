@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T05:09:24.456Z",
-  "exportedAt": "2026-08-26T05:18:32.474Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T09:00:51.258Z",
+  "exportedAt": "2026-09-02T09:12:26.422Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-va-code-24-2": {
@@ -1232,20 +1232,100 @@
         "relevanceSummary": "Frederick County’s elections office outlines key absentee-by-mail deadlines, ballot drop-box locations, polling-place hours (6 a.m.–7 p.m.), and a detailed list of acceptable IDs for voting in Virginia, information that applies statewide to VA-02 voters as well. It also clarifies there is no Election Day voting at the registrar’s office, emphasizing that voters must use their assigned polling place.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0u88676",
+        "headline": "Va. Gov. Spanberger fact-checked after Trump mail-in voting warning raises military ballot fears",
+        "sourceName": "Fox News",
+        "url": "https://www.foxnews.com/politics/spanberger-fact-checked-after-trump-mail-in-voting-warning-raises-military-ballot-fears",
+        "publishedAt": "2026-09-02",
+        "relevanceSummary": "Clarifies that under USPS’s finalized regulations implementing Trump’s mail-in voting order, military and overseas voters covered by the Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA) are explicitly exempt from the new federal mail-ballot requirements, and notes that a federal judge has temporarily halted significant aspects of those regulations; this matters for VA-02’s substantial military population who vote from overseas as well as for understanding current mail-ballot rules.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0kbnihm",
+        "headline": "Early voting approaches with mail-in ballot uncertainty",
+        "sourceName": "WVTF",
+        "url": "https://www.wvtf.org/news/2026-08-31/early-voting-approaches-with-mail-in-ballot-uncertainty",
+        "publishedAt": "2026-08-31",
+        "relevanceSummary": "Explains that Virginia early voting begins September 18 and that mail-in ballots will be sent starting the same day, while highlighting uncertainty created by new federal USPS rules affecting verification and delivery of mail ballots; VA-02 voters relying on absentee or mail voting need to understand current timelines and possible disruptions.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0z8s2gj",
+        "headline": "Voter ID Requirements in Virginia",
+        "sourceName": "Alto",
+        "url": "https://alto.gab.com/politics/voter-id/virginia",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Summarizes current Virginia voter ID rules, noting that an ID is requested but does not need to be a photo ID, outlines acceptable identification documents, and explains options such as same-day registration during early voting and on Election Day; these statewide ID and registration procedures apply directly to VA-02 voters for both in‑person and absentee voting.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-05k4p1w",
+        "headline": "Judge again halts Trump's executive order limiting mail voting in midterms",
+        "sourceName": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/aug/28/federal-judge-halts-trump-executive-order-mail-voting-midterms",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Explains that a federal judge has again halted enforcement of Trump’s executive order that would have prevented USPS from delivering or collecting mail-in ballots for voters not confirmed as eligible and required specific envelope formats; because Virginia mail ballots are carried by USPS, VA-02 absentee voters are directly affected by whether this order is in force.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0qdbuzp",
+        "headline": "Federal judge temporarily blocks Trump administration's attempt to restrict mail voting",
+        "sourceName": "ABC News",
+        "url": "https://abcnews.com/Politics/federal-judge-temporarily-blocks-trump-administrations-attempt-restrict/story?id=136021374",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Reports that a federal judge has temporarily blocked key parts of the USPS rules implementing President Trump’s executive order on mail-in voting, which had added new verification requirements to all mail ballots; Virginia, including VA-02, is subject to these federal rules, so this litigation affects how strictly mail ballots may be screened for the November election.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0kjsfv2",
+        "headline": "Election officials say mail-in ballot rules could compromise November vote",
+        "sourceName": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/elections/2026/08/28/election-offficials-warn-of-chaos-over-new-usps-mail-ballot-rule/91477498007/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Features election officials, including from Virginia’s Loudoun County, warning that the new USPS mail-ballot rule and tight implementation timeline could cause confusion and delays, and advising voters to mail ballots at least a week before Election Day or use official drop boxes; VA-02 voters using absentee ballots face the same federal mail constraints and recommendations.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0pwyrs3",
+        "headline": "Supreme Court Ruling Puts Virginia's Mail Ballot Rules In Flux",
+        "sourceName": "Patch Virginia",
+        "url": "https://patch.com/virginia/fredericksburg/supreme-court-ruling-puts-virginia-s-mail-ballot-rules-flux",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Reports that a recent Supreme Court ruling has thrown Virginia’s mail ballot rules into flux but advises voters to continue following existing state instructions for requesting and returning absentee ballots, including the Oct. 23 deadline to request a mail ballot and registration deadlines; these statewide rules and potential changes directly affect VA-02 voters’ mail voting procedures.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0ay2z9j",
+        "headline": "New legal battle looms over Trump mail ballot rules",
+        "sourceName": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2026/08/26/states-prepare-to-fight-trump-mail-ballot-rules/91446413007/",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "Describes how new USPS rules require state and local election officials, including those in Virginia, to submit voter rolls through a federal portal and only send mail ballots to voters whose information matches, prompting some officials to urge voters to use drop boxes or return ballots early; VA-02 mail voters should understand how this could affect ballot delivery and timing.",
+        "tag": "litigation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-va02-auto",
-      "startedAt": "2026-08-26T05:08:49.700Z",
-      "completedAt": "2026-08-26T05:09:24.456Z",
+      "id": "run-2026-09-02-va02-auto",
+      "startedAt": "2026-09-02T09:00:25.285Z",
+      "completedAt": "2026-09-02T09:00:51.258Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for VA-02. Sources checked: 11. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for VA-02. Sources checked: 11. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T05:09:24.456Z",
+    "NEXT_REFRESH_AT": "2026-09-09T09:00:51.258Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
