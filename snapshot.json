@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T09:00:51.258Z",
-  "exportedAt": "2026-09-02T09:12:26.422Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T09:13:43.345Z",
+  "exportedAt": "2026-09-09T09:22:49.621Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-va-code-24-2": {
@@ -1312,20 +1312,90 @@
         "relevanceSummary": "Describes how new USPS rules require state and local election officials, including those in Virginia, to submit voter rolls through a federal portal and only send mail ballots to voters whose information matches, prompting some officials to urge voters to use drop boxes or return ballots early; VA-02 mail voters should understand how this could affect ballot delivery and timing.",
         "tag": "litigation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0qdgq1q",
+        "headline": "Cast ballots early and in-person, Arlington Democrats chair urges voters",
+        "sourceName": "ARLnow",
+        "url": "https://www.arlnow.com/2026/09/08/cast-ballots-early-and-in-person-arlington-democrats-chair-urges-voters/",
+        "publishedAt": "2026-09-08",
+        "relevanceSummary": "Notes that early voting for the November 2026 election begins statewide in Virginia on September 18 and encourages voters to take advantage of in-person early voting, reinforcing the statewide early voting calendar and options available to VA-02 voters.[5]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0lyfxfv",
+        "headline": "Mail In Ballots 2026",
+        "sourceName": "League of Women Voters of Fairfax Area",
+        "url": "https://www.lwv-fairfax.org/mailinballots",
+        "publishedAt": "2026-09-08",
+        "relevanceSummary": "Explains Virginia’s 45 days of early voting, timelines for when permanent absentee voters receive ballots, and multiple options and locations for returning mail ballots to secure drop boxes, offering practical guidance on mail-in ballot and drop-box use under statewide rules that also govern VA-02 voters.[2]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0lidqrp",
+        "headline": "Pre-Processing Timelines, Update Fall 2026 – Virginia",
+        "sourceName": "Election Innovation Lab",
+        "url": "https://electioninnovation.org/research/pre-processing-timelines/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "Summarizes Virginia law on absentee ballot envelope processing and scanning, noting that ballots may be scanned upon receipt and must begin scanning no later than seven days before Election Day, clarifying back-end election administration timelines that affect when VA-02 mail ballots are processed and counted.[15]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0ec2gmm",
+        "headline": "How to Vote Early (by Mail or in Person) in Virginia",
+        "sourceName": "Martinsville-Henry County Democratic Committee",
+        "url": "https://mhcdcva.org/how-to-vote-early-by-mail-or-in-person-in-virginia/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "Offers a statewide explainer on Virginia’s absentee voting procedures, including deadlines to request mail ballots, postmark and receipt requirements, and the availability and security features of ballot drop boxes in every district, giving VA-02 voters practical, actionable guidance on early voting and mail ballot return rules.[7]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0k6e9f8",
+        "headline": "Bedford County Briefs: Early voting begins Friday, September 18 for 2026 General and Special Elections",
+        "sourceName": "Lynchburg Agenda",
+        "url": "https://www.lynchburgagenda.com/bedford-county-briefs/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "Announces early voting start date (September 18) and specific hours and location for a Virginia county’s early vote center for the 2026 general and special elections, illustrating how early voting is administered locally under statewide rules that VA-02 voters follow in their own localities.[3]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0dmm6ec",
+        "headline": "County Calendar • Early Voting at the Office of Elections",
+        "sourceName": "Loudoun County Government",
+        "url": "https://www.loudoun.gov/Calendar.aspx?EID=19753",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "Provides county-level information on early voting at the local Office of Elections and notes that permanent absentee ballots will be mailed around September 18, illustrating how Virginia’s absentee-by-mail and early voting schedule is implemented locally under rules that also apply in VA-02.[6]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-017ay50",
+        "headline": "Supervisor Storck seeks funding for two more 24-hour ballot drop boxes",
+        "sourceName": "FFXnow",
+        "url": "https://www.ffxnow.com/2026/09/03/__trashed-103/",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "Details a proposal to expand 24-hour ballot drop boxes in Fairfax County and explains Virginia state law requirements for drop box security and daily ballot retrieval by electoral board or registrar staff, clarifying statewide drop-box procedures that govern ballot handling for VA-02 mail voters as well.[4]",
+        "tag": "security",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-va02-auto",
-      "startedAt": "2026-09-02T09:00:25.285Z",
-      "completedAt": "2026-09-02T09:00:51.258Z",
+      "id": "run-2026-09-09-va02-auto",
+      "startedAt": "2026-09-09T09:12:57.296Z",
+      "completedAt": "2026-09-09T09:13:43.345Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 8,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for VA-02. Sources checked: 11. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-09 for VA-02. Sources checked: 11. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T09:00:51.258Z",
+    "NEXT_REFRESH_AT": "2026-09-16T09:13:43.345Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
