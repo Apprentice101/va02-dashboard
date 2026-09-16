@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T09:13:43.345Z",
-  "exportedAt": "2026-09-09T09:22:49.621Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T09:44:52.178Z",
+  "exportedAt": "2026-09-16T09:54:21.344Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-va-code-24-2": {
@@ -1382,20 +1382,90 @@
         "relevanceSummary": "Details a proposal to expand 24-hour ballot drop boxes in Fairfax County and explains Virginia state law requirements for drop box security and daily ballot retrieval by electoral board or registrar staff, clarifying statewide drop-box procedures that govern ballot handling for VA-02 mail voters as well.[4]",
         "tag": "security",
         "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0fuzuel",
+        "headline": "Hanover renovates election office ahead of first day of early voting",
+        "sourceName": "VPM",
+        "url": "https://www.vpm.org/elections/2026-09-15/hanover-elections-office-renovations-nichols-smithson-early-voting/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This county‑level story describes Hanover County’s renovation of its elections office and preparations for the start of Virginia’s 45‑day early voting period, illustrating how local election administrators are organizing early‑voting logistics and facilities—context that, while focused on Hanover, reflects election‑administration practices relevant to counties in VA‑02.[5][12]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0kri0rm",
+        "headline": "No changes to mail-in voting in Virginia ahead of midterm elections",
+        "sourceName": "WWBT (NBC12 Richmond)",
+        "url": "https://www.12onyourside.com/2026/09/15/no-changes-mail-in-voting-virginia-ahead-midterm-elections/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This report clarifies that Virginia’s mail‑in voting procedures will remain unchanged for the upcoming elections, reassuring VA‑02 voters that existing absentee‑ballot rules—including eligibility, request processes, and return methods—continue to apply for the November 2026 general election.[4]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0ae8xz5",
+        "headline": "Early Voting Begins September 18 in Lynchburg",
+        "sourceName": "City of Lynchburg, Office of the General Registrar",
+        "url": "https://www.lynchburgva.gov/CivicAlerts.aspx?AID=1104",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "This registrar notice outlines local early‑voting dates, location, and reminders for Lynchburg voters to verify registration and bring acceptable ID, and directs residents to the registrar for information on early voting, voter registration, absentee voting, polling locations, and acceptable identification, offering a concrete example of how Virginia localities implement statewide procedures that also govern VA‑02 jurisdictions.[14]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0094yy3",
+        "headline": "Virginia voters can begin casting ballots early for the Nov. 3, 2026 General Election starting Sept. 18",
+        "sourceName": "Virginia Department of Elections",
+        "url": "https://www.elections.virginia.gov/news-releases/name-34420-en.html",
+        "publishedAt": "2026-09-12",
+        "relevanceSummary": "State election officials announce that Virginia’s 45‑day early voting period for the Nov. 3, 2026 general election begins Sept. 18, explain how to vote early in person, outline acceptable ID requirements at early voting sites, and detail absentee ballot request and return options and deadlines, all of which directly govern how VA‑02 voters can cast ballots this fall.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0mqx6hq",
+        "headline": "Early voting for the 2026 November General Election begins Sept. 18; guidance on absentee ballots and drop‑off locations",
+        "sourceName": "Virginia Department of Elections",
+        "url": "https://www.elections.virginia.gov/news-releases/early-voting-for-2026-november-general-election-begins-sept-18-1.html",
+        "publishedAt": "2026-09-11",
+        "relevanceSummary": "This statewide notice confirms that requested absentee ballots will be mailed by Sept. 18, reiterates that any registered Virginia voter may vote absentee without a reason, and specifies how ballots may be returned—including at registrar offices, designated drop‑off locations during early voting, polling places on Election Day, or by mail with postmark and receipt deadlines—rules that apply to all VA‑02 voters.[1]",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0o95ptd",
+        "headline": "2026 November Election Guide: Where to vote and everything you need to know",
+        "sourceName": "WSLS",
+        "url": "https://www.wsls.com/news/politics/2026/09/10/2026-november-election-guide-where-to-vote-and-everything-you-need-to-know/",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "This statewide guide details Virginia’s mail‑ballot deadlines and postmark rules, lists acceptable identification documents for voting, explains that voters lacking ID must cast provisional ballots or sign an ID Confirmation Statement, and notes that a copy of valid ID must be submitted by noon on the Friday after Election Day, providing VA‑02 voters with practical voter‑ID, mail‑ballot, and polling information.[9]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0gm17er",
+        "headline": "Virginia early voting starts Sept. 18: What voters need to know",
+        "sourceName": "FOX 5 DC",
+        "url": "https://www.fox5dc.com/news/virginia-early-voting-starts-sept-18-what-voters-need-know",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "This explainer summarizes statewide procedures for early in‑person voting and mail‑in ballots in Virginia, emphasizing that voters must either present acceptable identification or sign an ID Confirmation Statement, and that those without ID or a signed statement vote provisional ballots, clarifying voter‑ID and alternative ID procedures for VA‑02 residents.[6]",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-va02-auto",
-      "startedAt": "2026-09-09T09:12:57.296Z",
-      "completedAt": "2026-09-09T09:13:43.345Z",
+      "id": "run-2026-09-16-va02-auto",
+      "startedAt": "2026-09-16T09:44:31.053Z",
+      "completedAt": "2026-09-16T09:44:52.178Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for VA-02. Sources checked: 11. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-16 for VA-02. Sources checked: 11. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T09:13:43.345Z",
+    "NEXT_REFRESH_AT": "2026-09-23T09:44:52.178Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
