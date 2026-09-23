@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:44:52.178Z",
-  "exportedAt": "2026-09-16T09:54:21.344Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:32:20.305Z",
+  "exportedAt": "2026-09-23T09:40:40.272Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-va-code-24-2": {
@@ -1452,20 +1452,100 @@
         "relevanceSummary": "This explainer summarizes statewide procedures for early in‑person voting and mail‑in ballots in Virginia, emphasizing that voters must either present acceptable identification or sign an ID Confirmation Statement, and that those without ID or a signed statement vote provisional ballots, clarifying voter‑ID and alternative ID procedures for VA‑02 residents.[6]",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-va02-087d555",
+        "headline": "Va. registrars, voter groups work to ease confusion over mail ballots",
+        "sourceName": "The Virginian-Pilot",
+        "url": "https://www.pilotonline.com/2026/09/19/hampton-roads-voter-groups-mail-ballots/",
+        "publishedAt": "2026-09-19",
+        "relevanceSummary": "The article describes Virginia absentee-ballot return options, including registrar offices, designated drop-off sites and polling places. Mail ballots must be postmarked by November 3 and received by noon November 6, which is relevant to VA-02 voters using mail voting.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0ivtm7m",
+        "headline": "Early voting begins in Virginia: Senate seat, congressional race and proposed amendments on the ballot",
+        "sourceName": "WTVR CBS 6",
+        "url": "https://www.wtvr.com/news/local-news/chesterfield-county/early-voting-sept-18-2026",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "The article explains Virginia’s in-person ID requirement and alternatives for voters without acceptable identification, including an ID Confirmation Statement or provisional ballot. It also states that a valid ID copy must be submitted by noon on the Friday after the election for certain provisional ballots.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-00gijem",
+        "headline": "Virginia voter guide: What to know ahead of 2026 midterm elections",
+        "sourceName": "WTOP",
+        "url": "https://wtop.com/virginia/2026/09/virginia-voter-guide-what-to-know-ahead-of-2026-midterm-elections/",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "The statewide voter guide covers early voting from September 18 through October 31, acceptable ID, provisional-ballot procedures and returning absentee ballots to designated drop-off locations. These procedures apply to VA-02 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0ruriqs",
+        "headline": "2026 midterm early voting begins in Virginia",
+        "sourceName": "VPM News",
+        "url": "https://www.vpm.org/elections/2026-09-18/how-to-vote-early-virginia/",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "The article details Virginia’s early-voting procedures and lists accepted photo and non-photo identification, including utility bills, government documents and voter registration cards. Voters without ID may sign an identity statement or cast a provisional ballot.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0nqlah6",
+        "headline": "How to vote in Virginia: A 2026 VPM voter guide",
+        "sourceName": "VPM News",
+        "url": "https://www.vpm.org/news/2026-09-18/virginia-how-to-vote-guide/",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "The statewide guide explains acceptable identification for Virginia voters, including driver’s licenses, passports and Virginia school-issued student IDs. These requirements apply directly to voters in VA-02.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-02fmuvj",
+        "headline": "Early Voting Begins For 2026 Election: What's On The Ballot In McLean",
+        "sourceName": "Patch",
+        "url": "https://patch.com/virginia/mclean/early-voting-begins-2026-election-whats-on-ballot-mclean",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The article explains Fairfax-area early-voting sites, the October 23 mail-ballot request deadline, the November 3 return deadline and available drop-off options. It is directly useful to VA-02 voters in or near McLean.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0nahx1x",
+        "headline": "Early Voting Begins For 2026 Election: What's On Fairfax County Ballots",
+        "sourceName": "Patch",
+        "url": "https://patch.com/virginia/burke/early-voting-begins-2026-election-whats-fairfax-county-ballots",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The article provides Fairfax County early-voting locations, hours, ballot-return deadlines and a drop-box location. These logistics are relevant to VA-02 voters in Fairfax County.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0b6k84p",
+        "headline": "Early Voting For 2026 Election Begins: What's On The Prince William County Ballot",
+        "sourceName": "Patch",
+        "url": "https://patch.com/virginia/woodbridge-va/early-voting-2026-election-begins-whats-prince-william-county-ballot",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The Prince William County article lists early-voting locations and hours beginning September 18. County-level early-voting logistics are relevant to VA-02 voters residing in Prince William County.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-va02-auto",
-      "startedAt": "2026-09-16T09:44:31.053Z",
-      "completedAt": "2026-09-16T09:44:52.178Z",
+      "id": "run-2026-09-23-va02-auto",
+      "startedAt": "2026-09-23T09:32:04.914Z",
+      "completedAt": "2026-09-23T09:32:20.305Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 7,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for VA-02. Sources checked: 11. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-23 for VA-02. Sources checked: 11. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:44:52.178Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:32:20.305Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
