@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:32:20.305Z",
-  "exportedAt": "2026-09-23T09:40:40.272Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:32:08.476Z",
+  "exportedAt": "2026-09-30T10:40:56.913Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-va-code-24-2": {
@@ -1532,20 +1532,100 @@
         "relevanceSummary": "The Prince William County article lists early-voting locations and hours beginning September 18. County-level early-voting logistics are relevant to VA-02 voters residing in Prince William County.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-va02-01unq3d",
+        "headline": "Harrisonburg installs new 24-hour secure ballot drop box ahead of election",
+        "sourceName": "WHSV",
+        "url": "https://www.whsv.com/2026/09/29/harrisonburg-installs-new-24-hour-secure-ballot-drop-box-ahead-election/",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "Harrisonburg’s new 24-hour secure drop box is a county-level Virginia ballot-return development relevant under the dashboard’s statewide and county-administration scope. The article also reports that the deadline to request a mailed absentee ballot is Oct. 23.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-048p5el",
+        "headline": "Virginia voter guide: early voting dates, where to vote, ID laws, more",
+        "sourceName": "NBC4 Washington",
+        "url": "https://www.nbcwashington.com/decision-2026/virginia-voter-guide-election-registration-early-voting-locations-id-laws/4158390/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "This statewide guide applies directly to VA-02 voters and explains early-voting dates and locations, acceptable ID, provisional-ballot ID deadlines, voter registration, same-day registration, and absentee-ballot applications. It states that early voting continues through Oct. 31 and that voters using provisional ballots must provide a copy of ID to their local electoral board by noon the Friday after the election.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0nm1e1u",
+        "headline": "Nearly 235K Virginians should never have been disenfranchised, state says",
+        "sourceName": "VPM",
+        "url": "https://www.vpm.org/elections/2026-09-24/felony-voting-rights-restoration-hawkins-gibney-jones-youngkin/?ref=henricocitizen.com",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "Virginia’s election agency said it sent mailers to 234,852 people after a federal ruling largely invalidated the state’s automatic felony-disenfranchisement rule. The article is relevant to VA-02 voters who may now be eligible to register and vote under the revised guidance.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0hz5uss",
+        "headline": "Virginia’s mail ballots are on the way to voters",
+        "sourceName": "WVTf",
+        "url": "https://www.wvtf.org/news/2026-09-16/virginias-mail-ballots-are-on-the-way-to-voters",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "The report says Virginia mail ballots were being delivered to voters and included instructions for tracking them. It also explains that drop boxes would become available when early voting began, providing statewide ballot-return information for VA-02 voters.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-03xpyig",
+        "headline": "Virginia shrinks list of disenfranchising crimes, complying with court ruling",
+        "sourceName": "VPM",
+        "url": "https://www.vpm.org/elections/2026-09-15/king-v-youngkin-felony-voting-rights-elect-koski-gibney/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Following a federal court ruling, Virginia changed its guidance so people convicted of most felonies may register and vote after release, while three specified crimes remain excluded. The statewide change may affect eligible VA-02 residents seeking registration or rights restoration.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0wnb45y",
+        "headline": "Virginia voter guide: Where to vote, who is on the ballot, important deadlines",
+        "sourceName": "13 News Now",
+        "url": "https://www.13newsnow.com/article/news/politics/elections/virginia-voter-guide-where-to-vote-who-is-on-the-ballot-important-deadlines-midterm-2026-election/291-006928da-3a3f-4ebc-9950-24712555e111",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "The statewide guide explains Virginia’s ID requirement, the option to sign an ID Confirmation Statement, and provisional-ballot procedures when a voter lacks acceptable identification. It also covers polling-place lookup, absentee-ballot requests, and early voting from September 18 through October 31.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-00sxr9v",
+        "headline": "Early voting begins Sept. 18 in Alexandria for congressional races, constitutional amendments",
+        "sourceName": "ALXnow",
+        "url": "https://www.alxnow.com/2026/09/14/early-voting-begins-sept-18-in-alexandria-for-congressional-races-constitutional-amendments/",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "Alexandria election officials provided local early-voting dates, absentee-ballot request and return deadlines, and drop-box availability. Alexandria is outside VA-02, but the coverage documents Virginia procedures relevant statewide and offers a regional example of ballot-drop logistics.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0m9vk3j",
+        "headline": "Virginia Dept. of Elections: News Releases",
+        "sourceName": "Virginia Department of Elections",
+        "url": "https://www.elections.virginia.gov/news-releases/early-voting-for-2026-november-general-election-begins-sept-18-2.html",
+        "publishedAt": "2026-09-11",
+        "relevanceSummary": "Virginia’s Department of Elections announced that early voting begins September 18 and explained how voters can request and return absentee ballots. Ballots may be returned to registrars, designated drop-off locations, polling places, or by mail, with mailed ballots postmarked by November 3 and received by noon November 6.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-va02-auto",
-      "startedAt": "2026-09-23T09:32:04.914Z",
-      "completedAt": "2026-09-23T09:32:20.305Z",
+      "id": "run-2026-09-30-va02-auto",
+      "startedAt": "2026-09-30T10:31:49.222Z",
+      "completedAt": "2026-09-30T10:32:08.476Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for VA-02. Sources checked: 11. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-30 for VA-02. Sources checked: 11. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:32:20.305Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:32:08.476Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
