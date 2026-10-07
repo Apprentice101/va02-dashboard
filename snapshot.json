@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:32:08.476Z",
-  "exportedAt": "2026-09-30T10:40:56.913Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T11:07:49.496Z",
+  "exportedAt": "2026-10-07T11:16:13.793Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high"
       },
       "src-va-code-24-2": {
@@ -1612,20 +1612,80 @@
         "relevanceSummary": "Virginia’s Department of Elections announced that early voting begins September 18 and explained how voters can request and return absentee ballots. Ballots may be returned to registrars, designated drop-off locations, polling places, or by mail, with mailed ballots postmarked by November 3 and received by noon November 6.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0wi7evr",
+        "headline": "Virginia midterm election guide",
+        "sourceName": "6AM City",
+        "url": "https://6amcity.com/web/va/northern-virginia/city/virginia-midterm-election-guide",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "The guide lists Virginia’s October 23 voter-registration and mail-ballot-request deadlines, October 31 as the last day of in-person early voting, and November 6 as the receipt deadline for mailed ballots. These statewide procedures apply to VA-02 voters, although the article is focused on Northern Virginia generally.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0srpudu",
+        "headline": "McKay stresses security of Fairfax’s election process in Congressional ‘shadow hearing’",
+        "sourceName": "FFXnow",
+        "url": "https://www.ffxnow.com/2026/10/05/mckay-stresses-security-of-fairfaxs-election-process-in-congressional-shadow-hearing/",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "Fairfax officials described hand-marked ballots, air-gapped election-management systems, documented chain of custody, bipartisan oversight, tamper-evident seals, and a monitored ballot drop box. Fairfax is outside VA-02, but the county-level procedures are relevant to Virginia election administration and security.",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-00zf7ur",
+        "headline": "Across the region, early voting is up compared to last midterm elections",
+        "sourceName": "Fredericksburg Free Press",
+        "url": "https://www.fredericksburgfreepress.com/2026/10/01/across-the-region-early-voting-is-up-compared-to-last-midterm-elections/",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "The article reports that approximately 282,000 Virginians had voted in person or by mail by September 30, more than twice the comparable 2022 midterm figure. The statewide participation data provides context for VA-02 voters using early or mail voting.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0pby09a",
+        "headline": "Virginia now prohibits federal agents from conducting immigration enforcement activities within 500 yards of a polling place during election hours",
+        "sourceName": "Brennan Center for Justice",
+        "url": "https://www.brennancenter.org/our-work/research-reports/state-voting-laws-roundup-october-2026",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "The statewide-law roundup reports Virginia’s new 500-yard restriction on federal immigration-enforcement activity near polling places during election hours. The rule applies to VA-02 polling places and may affect voters’ access and sense of security when voting.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0dmm6dk",
+        "headline": "Early Voting at the Office of Elections",
+        "sourceName": "Loudoun County",
+        "url": "https://www.loudoun.gov/Calendar.aspx?EID=19760",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "Loudoun County’s election-office notice provides early-voting logistics, acceptable identification reminders, the October 23 registration and mail-ballot-request deadlines, and the option to register through Election Day using a provisional ballot. Loudoun is outside VA-02, but the notice also reflects statewide Virginia procedures.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0e9uw6e",
+        "headline": "Voter Registration Drive Held at University of Lynchburg",
+        "sourceName": "WSLS 10",
+        "url": "https://www.wsls.com/news/local/2026/09/30/lynchburg-voter-registration-drive-2026/",
+        "publishedAt": "2026-09-30",
+        "relevanceSummary": "The report covers a Virginia voter-registration event and notes that eligible residents can register or update their information through October 23. The registration deadline is statewide and therefore applies to VA-02 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-va02-auto",
-      "startedAt": "2026-09-30T10:31:49.222Z",
-      "completedAt": "2026-09-30T10:32:08.476Z",
+      "id": "run-2026-10-07-va02-auto",
+      "startedAt": "2026-10-07T11:07:38.972Z",
+      "completedAt": "2026-10-07T11:07:49.496Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 8,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for VA-02. Sources checked: 11. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-07 for VA-02. Sources checked: 11. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:32:08.476Z",
+    "NEXT_REFRESH_AT": "2026-10-14T11:07:49.496Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
