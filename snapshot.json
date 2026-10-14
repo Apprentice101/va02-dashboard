@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T11:07:49.496Z",
-  "exportedAt": "2026-10-07T11:16:13.793Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:27:43.895Z",
+  "exportedAt": "2026-10-14T09:35:29.921Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-va-code-24-2": {
@@ -1672,20 +1672,100 @@
         "relevanceSummary": "The report covers a Virginia voter-registration event and notes that eligible residents can register or update their information through October 23. The registration deadline is statewide and therefore applies to VA-02 voters.",
         "tag": "deadline",
         "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0ozpbaa",
+        "headline": "Virginia college students are taking advantage of same-day voter registration more and more",
+        "sourceName": "WVTF",
+        "url": "https://www.wvtf.org/news/2026-10-14/virginia-college-students-are-taking-advantage-of-same-day-voter-registration-more-and-more",
+        "publishedAt": "2026-10-14",
+        "relevanceSummary": "Virginia voters, including those in VA-02, may register and cast a provisional ballot on the same day through the close of polls on Nov. 3. The article explains how same-day registration works and notes its use by college students.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0ludl26",
+        "headline": "Three weeks out from the November election, write-in candidate and voter participation deadlines approach",
+        "sourceName": "Ballotpedia",
+        "url": "https://news.ballotpedia.org/2026/10/13/three-weeks-out-from-the-november-election-write-in-candidate-and-voter-participation-deadlines-approach/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The article identifies Virginia's Oct. 23 deadline to register by mail or online and Nov. 3 deadline to register in person for the general election. The registration rules apply directly to VA-02 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-07vszpk",
+        "headline": "Deadlines approaching for midterm elections in Virginia",
+        "sourceName": "WRIC",
+        "url": "https://www.wric.com/news/politics/local-election-hq/deadlines-approaching-midterms-virginia/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The article summarizes Virginia election deadlines, including Oct. 23 registration and absentee-ballot-request deadlines, and explains return options and the receipt deadline for mailed ballots. These statewide procedures apply to VA-02 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0hymbpo",
+        "headline": "Virginia AG launches voter protection unit ahead of midterm elections",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/virginia-ag-launches-voter-protection-155413343.html",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "Virginia's attorney general launched a voter-protection unit ahead of the election. The article also reports that a court injunction leaves Virginia's existing mail-voting procedures in place for November, directly affecting VA-02 voters using mail ballots.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-02npvq5",
+        "headline": "Chesterfield County Reminds Voters of Upcoming Deadlines for Nov. 3 Election",
+        "sourceName": "Chesterfield County",
+        "url": "https://www.chesterfield.gov/m/newsflash/Home/Detail/7566",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The county outlines Virginia-wide deadlines and procedures relevant to VA-02 voters, including Oct. 23 registration and mail-ballot-request deadlines, drop-box and registrar return options, and postmark and receipt rules for mailed ballots.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0qk313u",
+        "headline": "Where to vote in Virginia — 2026 polling place, early voting",
+        "sourceName": "Decode the Vote",
+        "url": "https://www.decodethevote.com/election-2026/virginia/where-to-vote",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "The voter guide covers Virginia early-voting dates, polling-place information, acceptable ID or an ID Confirmation Statement, registration and mail-ballot deadlines, same-day registration, and mail-ballot receipt rules relevant to VA-02 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0hvre4y",
+        "headline": "Virginia Election Certification Processes and Guardrails",
+        "sourceName": "Brennan Center for Justice",
+        "url": "https://www.brennancenter.org/our-work/research-reports/virginia-election-certification-processes-and-guardrails",
+        "publishedAt": "2026-10-09",
+        "relevanceSummary": "The analysis explains Virginia's post-election canvassing and certification process, including the requirement that electoral boards certify results by Nov. 13. This statewide administration rule applies to the VA-02 congressional result.",
+        "tag": "canvass",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-06kv539",
+        "headline": "County Calendar • Early Voting at the Office of Elections",
+        "sourceName": "Loudoun County",
+        "url": "https://www.loudoun.gov/Calendar.aspx?EID=19765&month=10&year=2026&day=6&calType=0",
+        "publishedAt": "2026-10-08",
+        "relevanceSummary": "Loudoun County's election office provides operational guidance applicable to Virginia voters: no-excuse early voting, acceptable identification, the Oct. 23 registration and mail-ballot deadlines, and provisional voting after late registration. County-level coverage is included because it can inform statewide procedures.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-va02-auto",
-      "startedAt": "2026-10-07T11:07:38.972Z",
-      "completedAt": "2026-10-07T11:07:49.496Z",
+      "id": "run-2026-10-14-va02-auto",
+      "startedAt": "2026-10-14T09:27:36.428Z",
+      "completedAt": "2026-10-14T09:27:43.895Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
-      "updatesCreated": 6,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for VA-02. Sources checked: 11. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for VA-02. Sources checked: 11. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T11:07:49.496Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:27:43.895Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
