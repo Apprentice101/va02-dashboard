@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-14",
-  "updatedAt": "2026-10-14T09:27:43.895Z",
-  "exportedAt": "2026-10-14T09:35:29.921Z",
+  "dataAsOf": "2026-10-21",
+  "updatedAt": "2026-10-21T09:17:19.545Z",
+  "exportedAt": "2026-10-21T09:25:35.768Z",
   "districtCode": "VA-02",
   "data": {
     "DISTRICT": {
@@ -79,7 +79,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-va-code-24-2": {
@@ -1752,20 +1752,100 @@
         "relevanceSummary": "Loudoun County's election office provides operational guidance applicable to Virginia voters: no-excuse early voting, acceptable identification, the Oct. 23 registration and mail-ballot deadlines, and provisional voting after late registration. County-level coverage is included because it can inform statewide procedures.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0crc0lq",
+        "headline": "Key Virginia voting deadlines loom Friday",
+        "sourceName": "Rappahannock News",
+        "url": "https://www.rappnews.com/government/key-voting-deadlines-loom-friday-a38a56d4",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The article highlights Virginia’s October 23 deadlines for registration updates and mail-ballot applications, plus same-day registration through Election Day with provisional voting. These statewide rules apply directly to VA-02 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-00fxxv7",
+        "headline": "What happens after polls close? Norfolk elections director explains vote-counting process",
+        "sourceName": "13News Now",
+        "url": "https://www.13newsnow.com/article/news/politics/elections/what-happens-after-polls-close-election-day-vote-counting-process-virginia/291-0dc10a33-2aa9-4bba-88c2-b977fc7ef865",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "Norfolk’s elections director explained how election officials handle drop-off ballots and eligible mail ballots received after Election Day under Virginia deadlines. The counting procedures are relevant statewide, including to VA-02 voters.",
+        "tag": "canvass",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0ih2vtl",
+        "headline": "How to register to vote in Virginia ahead of Oct. 23 deadline",
+        "sourceName": "WSLS 10",
+        "url": "https://www.wsls.com/news/local/2026/10/20/voter-registratiion/",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The article explains Virginia’s October 23 registration deadline and same-day registration option through Election Day, which requires a provisional ballot. The statewide process applies directly to VA-02 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0dvmupw",
+        "headline": "Virginia’s Commissioner of Elections talks security, expectations for midterms",
+        "sourceName": "WHSV",
+        "url": "https://www.whsv.com/2026/10/20/virginias-commissioner-elections-talks-security-expectations-midterms/",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "Virginia’s Commissioner of Elections discussed statewide election-security procedures, including chain-of-custody requirements and voting-equipment testing. Those administrative safeguards apply to voters and election offices in VA-02.",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0azipls",
+        "headline": "Election 2026: Your Guide to Voting in Chesterfield",
+        "sourceName": "Chesterfield County",
+        "url": "https://www.chesterfield.gov/m/newsflash/home/detail/7602",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "This Virginia election guide explains same-day registration, provisional ballots, early voting, mail voting, accepted forms of voter ID, ID Confirmation Statements, and the deadline for curing provisional ballots. These statewide procedures apply to VA-02 voters, although Chesterfield is outside the district.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0kf7okr",
+        "headline": "Additional early voting location opens in Alexandria as November election nears",
+        "sourceName": "ALXnow",
+        "url": "https://www.alxnow.com/2026/10/19/additional-early-voting-location-opens-in-alexandria-as-november-election-nears/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "Alexandria opened an additional early-voting location and provided local information on voter ID, assigned polling places, ballot drop boxes, and mail-ballot return deadlines. Alexandria is outside VA-02, but the coverage is relevant as a Virginia county-level example of election administration.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-01yho05",
+        "headline": "Virginia Voter Guide 2026 General Election | What you need to know before casting your ballot",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/virginia-voter-guide-2026-general-232018170.html",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The guide lists Virginia’s acceptable-ID and ID Confirmation Statement rules, the October 23 registration and mail-ballot-request deadlines, early-voting dates, and mail-ballot return requirements. These statewide deadlines and procedures directly affect VA-02 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-va02-0ut4ghd",
+        "headline": "City of Alexandria Reminds Residents of By-Mail and Early Voting",
+        "sourceName": "City of Alexandria",
+        "url": "https://www.alexandriava.gov/news-elections/2026-10-16/city-of-alexandria-reminds-residents-of-by-mail-and-early-voting",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "The notice states that mail-ballot applications are due by 5 p.m. October 23, completed ballots must meet Virginia’s November 3 return rules, and drop boxes will be available at polling places on Election Day. These procedures provide a county-level example of statewide Virginia voting logistics.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-14-va02-auto",
-      "startedAt": "2026-10-14T09:27:36.428Z",
-      "completedAt": "2026-10-14T09:27:43.895Z",
+      "id": "run-2026-10-21-va02-auto",
+      "startedAt": "2026-10-21T09:17:07.901Z",
+      "completedAt": "2026-10-21T09:17:19.545Z",
       "triggerType": "scheduled",
       "sourcesChecked": 11,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-14 for VA-02. Sources checked: 11. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-21 for VA-02. Sources checked: 11. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-21T09:27:43.895Z",
+    "NEXT_REFRESH_AT": "2026-10-28T09:17:19.545Z",
     "WEEKLY_REPORT": {
       "id": "wr-va02-2026-w24",
       "periodStart": "2026-06-08",
